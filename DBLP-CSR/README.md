@@ -10,3 +10,14 @@ To parsing the original files in the *raw-data* folder, run
 `python parser.py file-name format` where 'file-name' is one of 
 \"affiliation\", \"affiliation_coord\", \"authors_gender\", \"authors\", \"main\"; format is one of \".csv\" and \".txt\".
 
+
+# license file 
+# explanation of areas, conferences......
+# read me on DBLP-CSR
+# parsers.py typo
+# instructions to reproduce
+# edge label -- sponsor(demo/), year, pass/fail (signed)
+# each hyper edge -- directed hyperedge 
+# sponsor of the hyperedge
+# affiliation id
+# asymmetric case
