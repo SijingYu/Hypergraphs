@@ -1,0 +1,1718 @@
+0: AIKEN; original id: 52
+1: ALBERT; original id: 62
+2: ARENDS; original id: 226
+3: ASHLEY; original id: 267
+4: BARRETT; original id: 465
+5: Bennett, Charles E. [FL-3]; original id: 633
+6: BENNETT; original id: 645
+7: Bentsen, Lloyd M. [TX]; original id: 660
+8: BIBLE; original id: 688
+9: BLATNIK; original id: 789
+10: BOLAND; original id: 830
+11: BOLLING; original id: 835
+12: BRADEMAS; original id: 948
+13: BRAY; original id: 986
+14: Brooks, Jack B. [TX-9]; original id: 1077
+15: Broomfield, William S. [MI-18]; original id: 1087
+16: BROYHILL (VA.); original id: 1154
+17: Burdick, Quentin N. [ND]; original id: 1252
+18: BURKE (MASS.); original id: 1265
+19: BURLESON; original id: 1282
+20: Byrd, Robert C. [WV]; original id: 1366
+21: CANNON; original id: 1482
+22: CASE; original id: 1569
+23: CASEY; original id: 1577
+24: CEDERBERG; original id: 1610
+25: CHAMBERLAIN; original id: 1620
+26: CHURCH; original id: 1721
+27: CLARK; original id: 1763
+28: COLLIER; original id: 1941
+29: Conte, Silvio O. [MA-1]; original id: 2009
+30: COTTON; original id: 2087
+31: CURTIS; original id: 2267
+32: DANIELS, DOMINICK V.; original id: 2329
+33: DAVIS (WISC.); original id: 2383
+34: DELANEY; original id: 2476
+35: DENT; original id: 2513
+36: DERWINSKI; original id: 2525
+37: DEVINE; original id: 2533
+38: DIGGS; original id: 2594
+39: Dingell, John D. [MI-16]; original id: 2605
+40: DONOHUE; original id: 2660
+41: DORN; original id: 2672
+42: DOWNING; original id: 2706
+43: DULSKI; original id: 2752
+44: EASTLAND; original id: 2822
+45: ERVIN; original id: 2987
+46: EVINS; original id: 3034
+47: Fascell, Dante B. [FL-19]; original id: 3078
+48: FISHER; original id: 3171
+49: FLOOD; original id: 3224
+50: FLYNT; original id: 3242
+51: FONG; original id: 3255
+52: GERALD R. FORD; original id: 3268
+53: FOUNTAIN; original id: 3321
+54: FRELINGHUYSEN; original id: 3364
+55: FULBRIGHT; original id: 3388
+56: GIAIMO; original id: 3553
+57: GOLDWATER; original id: 3658
+58: GRAY; original id: 3769
+59: GREEN (ORE.); original id: 3775
+60: GRIFFIN; original id: 3824
+61: GRIFFITHS; original id: 3830
+62: GROSS; original id: 3853
+63: GUBSER; original id: 3867
+64: HALEY; original id: 3929
+65: HANSEN (WASH.); original id: 4043
+66: HART (MICH.); original id: 4148
+67: HARTKE; original id: 4154
+68: HAYS; original id: 4247
+69: HEBERT; original id: 4275
+70: HECHLER; original id: 4276
+71: HOLIFIELD; original id: 4514
+72: HOSMER; original id: 4592
+73: HRUSKA; original id: 4660
+74: HUMPHREY; original id: 4728
+75: Inouye, Daniel K. [HI]; original id: 4812
+76: JACKSON; original id: 4851
+77: JARMAN; original id: 4891
+78: JAVITS; original id: 4898
+79: JOHNSON (CALIF.); original id: 4957
+80: JONES (ALA.); original id: 5058
+81: KARTH; original id: 5098
+82: Kastenmeier, Robert W. [WI-2]; original id: 5101
+83: KLUCZYNSKI; original id: 5326
+84: LANDRUM; original id: 5436
+85: LATTA; original id: 5495
+86: LONG, R.; original id: 5767
+87: MACDONALD; original id: 5873
+88: MADDEN; original id: 5900
+89: MAGNUSON; original id: 5913
+90: MAHON; original id: 5924
+91: MAILLIARD; original id: 5929
+92: MANSFIELD; original id: 5967
+93: MCCLELLAN; original id: 6151
+94: MCFALL; original id: 6240
+95: MCGEE; original id: 6249
+96: MCGOVERN; original id: 6256
+97: METCALF; original id: 6442
+98: Michel, Robert H. [IL-18]; original id: 6455
+99: MILLS (ARK.); original id: 6532
+100: MINSHALL; original id: 6548
+101: MOLLOHAN; original id: 6584
+102: MONTOYA; original id: 6611
+103: MOORHEAD (PA.); original id: 6661
+104: MORGAN; original id: 6685
+105: MOSS; original id: 6754
+106: MOSS; original id: 6756
+107: MUSKIE; original id: 6831
+108: Natcher, William H. [KY-2]; original id: 6845
+109: NELSEN; original id: 6860
+110: NIX; original id: 6936
+111: O'HARA; original id: 7043
+112: O'NEILL; original id: 7081
+113: PASSMAN; original id: 7228
+114: PASTORE; original id: 7229
+115: PATMAN; original id: 7232
+116: Pepper, Claude [FL-18]; original id: 7333
+117: PERKINS; original id: 7343
+118: POAGE; original id: 7498
+119: PRICE (ILL.); original id: 7610
+120: PROXMIRE; original id: 7638
+121: QUIE; original id: 7671
+122: RANDALL; original id: 7717
+123: RANDOLPH; original id: 7722
+124: REUSS; original id: 7824
+125: RHODES; original id: 7845
+126: RIBICOFF; original id: 7847
+127: ROBISON; original id: 7995
+128: RODINO; original id: 8010
+129: ROGERS; original id: 8032
+130: ROONEY (N. Y.); original id: 8049
+131: Rostenkowski, Dan [IL-8]; original id: 8080
+132: ROUSH; original id: 8084
+133: SAYLOR; original id: 8247
+134: SCHNEEBELI; original id: 8268
+135: SCOTT (PA.); original id: 8301
+136: SHIPLEY; original id: 8474
+137: SIKES; original id: 8507
+138: SISK; original id: 8549
+139: SLACK; original id: 8564
+140: Smith, Neal Edward [IA-4]; original id: 8672
+141: SPARKMAN; original id: 8764
+142: STAGGERS; original id: 8824
+143: STEED; original id: 8866
+144: STENNIS; original id: 8883
+145: STRATTON; original id: 9017
+146: STUBBLEFIELD; original id: 9056
+147: SULLIVAN; original id: 9072
+148: SYMINGTON; original id: 9141
+149: TALMADGE; original id: 9174
+150: TAYLOR (N. C.); original id: 9230
+151: TEAGUE (CALIF.); original id: 9240
+152: TEAGUE (TEX.); original id: 9241
+153: THOMPSON; original id: 9322
+154: Thurmond, Strom [SC]; original id: 9369
+155: ULLMAN; original id: 9551
+156: VANIK; original id: 9623
+157: WAMPLER; original id: 9802
+158: Whitten, Jamie L. [MS-1]; original id: 10075
+159: WIDNALL; original id: 10091
+160: WILLIAMS, H.; original id: 10147
+161: WILSON, BOB; original id: 10249
+162: Wright, James C., Jr. [TX-12]; original id: 10391
+163: Yates, Sidney R. [IL-9]; original id: 10421
+164: YOUNG (S. C.); original id: 10446
+165: YOUNG, M.; original id: 10450
+166: ZABLOCKI; original id: 10463
+167: ADDABBO; original id: 10500
+168: ANDERSON (ILL.); original id: 10501
+169: ASHBROOK; original id: 10502
+170: BELL; original id: 10505
+171: CAREY; original id: 10508
+172: CLANCY; original id: 10510
+173: CORMAN; original id: 10511
+174: DAVIS (GA.); original id: 10512
+175: Dole, Robert J. [KS]; original id: 10513
+176: DOMINICK; original id: 10514
+177: FINDLEY; original id: 10517
+178: Gonzalez, Henry B. [TX-20]; original id: 10520
+179: GOODLING; original id: 10521
+180: HARSHA; original id: 10525
+181: HARVEY; original id: 10526
+182: HENDERSON; original id: 10527
+183: ICHORD; original id: 10528
+184: KING; original id: 10530
+185: MARTIN (N. C.); original id: 10534
+186: MATHIAS; original id: 10535
+187: MOSHER; original id: 10539
+188: NEDZI; original id: 10540
+189: PIKE; original id: 10545
+190: ROBERTS; original id: 10550
+191: ROSENTHAL; original id: 10551
+192: ROUSSELOT; original id: 10553
+193: SCHWEIKER; original id: 10557
+194: SHRIVER; original id: 10559
+195: ST GERMAIN; original id: 10561
+196: STAFFORD; original id: 10562
+197: STEPHENS; original id: 10563
+198: THOMSON; original id: 10564
+199: Udall, Morris K. [AZ-2]; original id: 10566
+200: WAGGONNER; original id: 10567
+201: ANDREWS (N. D.); original id: 10569
+202: BROCK; original id: 10571
+203: BROTZMAN; original id: 10572
+204: Brown, George E., Jr. [CA-36]; original id: 10573
+205: BROYHILL (N. C.); original id: 10574
+206: BURTON, PHILLIP; original id: 10577
+207: CLAUSEN, DON H.; original id: 10579
+208: CLAWSON, DEL; original id: 10580
+209: CLEVELAND; original id: 10581
+210: DUNCAN (ORE.); original id: 10582
+211: Edwards, Don [CA-10]; original id: 10583
+212: FRASER; original id: 10585
+213: FULTON; original id: 10586
+214: FUQUA; original id: 10587
+215: Gibbons, Sam [FL-11]; original id: 10588
+216: GREEN (PA.); original id: 10591
+217: GROVER; original id: 10592
+218: GURNEY; original id: 10593
+219: HANNA; original id: 10594
+220: Hawkins, Augustus F. [CA-29]; original id: 10595
+221: Horton, Frank J. [NY-29]; original id: 10596
+222: HUTCHINSON; original id: 10597
+223: JOHNSON (PA.); original id: 10598
+224: LEGGETT; original id: 10599
+225: LONG (MD.); original id: 10601
+226: LONG (LA.); original id: 10602
+227: Matsunaga, Spark M. [HI]; original id: 10605
+228: MCCLORY; original id: 10606
+229: McDade, Joseph M. [PA-10]; original id: 10607
+230: MINISH; original id: 10609
+231: MURPHY (N. Y.); original id: 10611
+232: PATTEN; original id: 10613
+233: Pickle, J. J. [TX-10]; original id: 10614
+234: Quillen, James H. (Jimmy) [TN-1]; original id: 10616
+235: ROONEY (PA.); original id: 10620
+236: Roybal, Edward R. [CA-25]; original id: 10621
+237: SKUBITZ; original id: 10625
+238: SNYDER; original id: 10626
+239: TAFT; original id: 10630
+240: TALCOTT; original id: 10631
+241: VAN DEERLIN; original id: 10633
+242: WYDLER; original id: 10638
+243: WYMAN; original id: 10639
+244: WILSON, CHARLES H.; original id: 10640
+245: Adams, Brock [WA]; original id: 10700
+246: Annunzio, Frank [IL-11]; original id: 10703
+247: BINGHAM; original id: 10705
+248: BUCHANAN; original id: 10706
+249: CARTER; original id: 10710
+250: CONABLE; original id: 10712
+251: Conyers, John, Jr. [MI-14]; original id: 10713
+252: CULVER; original id: 10715
+253: de la Garza, E. [TX-15]; original id: 10716
+254: Dickinson, William L. [AL-2]; original id: 10717
+255: DUNCAN (TENN.); original id: 10719
+256: EDWARDS (ALA.); original id: 10721
+257: ERLENBORN; original id: 10722
+258: EVANS (COLO.); original id: 10723
+259: Foley, Thomas S. [WA-5]; original id: 10726
+260: Ford, William D. [MI-15]; original id: 10727
+261: GETTYS; original id: 10728
+262: Hamilton, Lee H. [IN-9]; original id: 10732
+263: HANLEY; original id: 10733
+264: HANSEN, G.; original id: 10734
+265: HATHAWAY; original id: 10736
+266: HELSTOSKI; original id: 10737
+267: HICKS; original id: 10738
+268: HOWARD; original id: 10739
+269: HUNGATE; original id: 10740
+270: Jacobs, Andrew, Jr. [IN-10]; original id: 10742
+271: MCEWEN; original id: 10749
+272: MEEDS; original id: 10756
+273: Mink, Patsy T. [HI-2]; original id: 10757
+274: OTTINGER; original id: 10760
+275: RONCALIO; original id: 10766
+276: SATTERFIELD; original id: 10767
+277: Scheuer, James H. [NY-8]; original id: 10768
+278: SMITH (N. Y.); original id: 10771
+279: STANTON, J. WILLIAM; original id: 10773
+280: TUNNEY; original id: 10777
+281: VIGORITO; original id: 10778
+282: WHITE; original id: 10783
+283: WOLFF; original id: 10784
+284: WYATT; original id: 10785
+285: BROWN (OHIO); original id: 10786
+286: Jones, Walter B. [NC-1]; original id: 10788
+287: REES; original id: 10790
+288: Pryor, David H. [AR]; original id: 10791
+289: WALDIE; original id: 10793
+290: Vander Jagt, Guy [MI-9]; original id: 10794
+291: BAYH; original id: 10800
+292: BYRD (VA.); original id: 10802
+293: FANNIN; original id: 10804
+294: Kennedy, Edward M. [MA]; original id: 10808
+295: MCINTYRE; original id: 10810
+296: MONDALE; original id: 10813
+297: NELSON, G.; original id: 10816
+298: PEARSON; original id: 10817
+299: Pell, Claiborne [RI]; original id: 10818
+300: TOWER; original id: 10823
+301: Bevill, Tom [AL-4]; original id: 11000
+302: BIESTER; original id: 11001
+303: BLACKBURN; original id: 11002
+304: BRASCO; original id: 11004
+305: BRINKLEY; original id: 11005
+306: BROWN (MICH.); original id: 11006
+307: BURKE (FLA.); original id: 11007
+308: DELLENBACK; original id: 11011
+309: ECKHARDT; original id: 11013
+310: EILBERG; original id: 11014
+311: ESCH; original id: 11015
+312: ESHLEMAN; original id: 11016
+313: GUDE; original id: 11019
+314: Hammerschmidt, John P. [AR-3]; original id: 11020
+315: HECKLER; original id: 11021
+316: HUNT; original id: 11022
+317: KAZEN; original id: 11023
+318: KUYKENDALL; original id: 11025
+319: KYROS; original id: 11027
+320: Lukens, Donald E. [OH-8]; original id: 11028
+321: McClure, James A. [ID]; original id: 11029
+322: MATHIAS; original id: 11031
+323: MAYNE; original id: 11032
+324: Miller, Clarence E. [OH-10]; original id: 11034
+325: Montgomery, G. V. (Sonny) [MS-3]; original id: 11035
+326: Myers, John T. [IN-7]; original id: 11036
+327: NICHOLS; original id: 11037
+328: PETTIS; original id: 11038
+329: RAILSBACK; original id: 11041
+330: RARICK; original id: 11042
+331: Riegle, Donald W., Jr. [MI]; original id: 11043
+332: Roth Jr., William V. [DE]; original id: 11044
+333: RUPPE; original id: 11045
+334: SANDMAN; original id: 11046
+335: SCHERLE; original id: 11047
+336: SCOTT (VA.); original id: 11048
+337: STEIGER (ARIZ.); original id: 11050
+338: STEIGER (WISC.); original id: 11051
+339: STUCKEY; original id: 11052
+340: WHALEN; original id: 11054
+341: WIGGINS; original id: 11055
+342: WILLIAMS; original id: 11056
+343: WINN; original id: 11057
+344: Wylie, Chalmers P. [OH-15]; original id: 11058
+345: ZION; original id: 11059
+346: ZWACH; original id: 11060
+347: TIERNAN; original id: 11061
+348: PRICE (TEX.); original id: 11062
+349: MCCLOSKEY; original id: 11063
+350: PODELL; original id: 11064
+351: COLLINS (TEX.); original id: 11066
+352: Gaydos, Joseph M. [PA-20]; original id: 11067
+353: BAKER; original id: 11200
+354: BROOKE; original id: 11201
+355: HANSEN; original id: 11202
+356: Hatfield, Mark O. [OR]; original id: 11203
+357: Hollings, Ernest F. [SC]; original id: 11204
+358: PERCY; original id: 11205
+359: Alexander, Bill [AR-1]; original id: 12000
+360: Anderson, Glenn M. [CA-32]; original id: 12001
+361: BEALL; original id: 12002
+362: BIAGGI; original id: 12003
+363: BURLISON; original id: 12004
+364: CAMP; original id: 12006
+365: CHAPPELL; original id: 12007
+366: CHISHOLM; original id: 12008
+367: Clay, William (Bill) [MO-1]; original id: 12009
+368: Coughlin, Lawrence [PA-13]; original id: 12010
+369: DANIEL, W. C. (DAN); original id: 12011
+370: DENNIS; original id: 12012
+371: Fish, Hamilton, Jr. [NY-21]; original id: 12013
+372: FLOWERS; original id: 12014
+373: FREY; original id: 12015
+374: HANSEN (IDAHO); original id: 12016
+375: HASTINGS; original id: 12017
+376: HOGAN; original id: 12018
+377: KOCH; original id: 12019
+378: LANDGREBE; original id: 12020
+379: LUJAN; original id: 12022
+380: MANN; original id: 12023
+381: MIKVA; original id: 12025
+382: MIZELL; original id: 12026
+383: PREYER; original id: 12027
+384: RUTH; original id: 12028
+385: SEBELIUS; original id: 12029
+386: Stokes, Louis [OH-21]; original id: 12030
+387: SYMINGTON; original id: 12031
+388: WEICKER; original id: 12032
+389: WHITEHURST; original id: 12033
+390: Yatron, Gus [PA-6]; original id: 12035
+391: Obey, David R. [WI-7]; original id: 12036
+392: GOLDWATER; original id: 12037
+393: JONES (TENN.); original id: 12038
+394: MELCHER; original id: 12039
+395: HARRINGTON; original id: 12040
+396: Crane, Philip M. [IL-12]; original id: 12041
+397: Roe, Robert A. [NJ-8]; original id: 12042
+398: CARNEY; original id: 12044
+399: FORSYTHE; original id: 12046
+400: STEELE; original id: 12047
+401: WARE; original id: 12048
+402: ALLEN; original id: 12100
+403: BELLMON; original id: 12101
+404: COOK; original id: 12102
+405: Cranston, Alan [CA]; original id: 12103
+406: EAGLETON; original id: 12104
+407: GRAVEL; original id: 12105
+408: HUGHES; original id: 12106
+409: Packwood, Bob [OR]; original id: 12107
+410: SAXBE; original id: 12108
+411: Stevens, Ted [AK]; original id: 12109
+412: ABOUREZK; original id: 13000
+413: ABZUG; original id: 13001
+414: Archer, Bill [TX-7]; original id: 13002
+415: Aspin, Les [WI-1]; original id: 13003
+416: BADILLO; original id: 13004
+417: BAKER; original id: 13005
+418: BERGLAND; original id: 13007
+419: BYRON; original id: 13008
+420: COTTER; original id: 13009
+421: DANIELSON; original id: 13010
+422: Dellums, Ronald V. [CA-8]; original id: 13011
+423: DENHOLM; original id: 13012
+424: DRINAN; original id: 13013
+425: DUPONT; original id: 13014
+426: Frenzel, Bill [MN-3]; original id: 13015
+427: GRASSO; original id: 13016
+428: HILLIS; original id: 13018
+429: KEATING; original id: 13019
+430: KEMP; original id: 13020
+431: Lent, Norman F. [NY-4]; original id: 13021
+432: MATHIS; original id: 13023
+433: Mazzoli, Romano L. [KY-3]; original id: 13024
+434: MCCOLLISTER; original id: 13025
+435: MCCORMACK; original id: 13026
+436: MCKAY; original id: 13027
+437: MCKINNEY; original id: 13029
+438: METCALFE; original id: 13030
+439: MITCHELL (N. Y.); original id: 13031
+440: MURPHY (ILL.); original id: 13032
+441: PEYSER; original id: 13033
+442: POWELL; original id: 13034
+443: Rangel, Charles B. [NY-16]; original id: 13035
+444: ROBINSON; original id: 13036
+445: ROY; original id: 13037
+446: RUNNELS; original id: 13038
+447: Sarbanes, Paul S. [MD]; original id: 13039
+448: SEIBERLING; original id: 13040
+449: SHOUP; original id: 13041
+450: Spence, Floyd [SC-2]; original id: 13042
+451: STANTON, J. WILLIAM; original id: 13043
+452: THONE; original id: 13045
+453: VEYSEY; original id: 13046
+454: Young, C. W. Bill [FL-10]; original id: 13047
+455: DAVIS (S. C.); original id: 13048
+456: MILLS (MD.); original id: 13049
+457: Heinz, John [PA]; original id: 13050
+458: MALLARY; original id: 13052
+459: BUTLER; original id: 13055
+460: Breaux, John B. [LA]; original id: 13056
+461: BUCKLEY; original id: 13100
+462: CHILES; original id: 13101
+463: STEVENSON; original id: 13102
+464: ABDNOR; original id: 14000
+465: ANDREWS (N. C.); original id: 14001
+466: Armstrong, William L. [CO]; original id: 14002
+467: BAFALIS; original id: 14003
+468: BEARD (TENN.); original id: 14004
+469: BOWEN; original id: 14005
+470: BRECKINRIDGE; original id: 14006
+471: BURGENER; original id: 14007
+472: BURKE (CALIF.); original id: 14008
+473: Cochran, Thad [MS]; original id: 14009
+474: Cohen, William S. [ME]; original id: 14010
+475: CONLAN; original id: 14011
+476: CRONIN; original id: 14012
+477: DANIEL, W. C. (DAN); original id: 14013
+478: FROEHLICH; original id: 14014
+479: Gilman, Benjamin A. [NY-22]; original id: 14015
+480: GINN; original id: 14016
+481: GUNTER; original id: 14017
+482: GUYER; original id: 14018
+483: HANRAHAN; original id: 14019
+484: HINSHAW; original id: 14020
+485: HOLT; original id: 14021
+486: HOLTZMAN; original id: 14022
+487: HUBER; original id: 14023
+488: HUDNUT; original id: 14024
+489: JOHNSON (COLO.); original id: 14025
+490: JONES (OKLA.); original id: 14026
+491: JORDAN; original id: 14027
+492: KETCHUM; original id: 14028
+493: Lehman, William [FL-17]; original id: 14029
+494: LITTON; original id: 14030
+495: Lott, Trent [MS]; original id: 14031
+496: MCSPADDEN; original id: 14032
+497: Madigan, Edward R. [IL-15]; original id: 14033
+498: MARAZITI; original id: 14034
+499: MARTIN (NEB.); original id: 14035
+500: MEZVINSKY; original id: 14036
+501: MILFORD; original id: 14037
+502: MITCHELL (N. Y.); original id: 14038
+503: Moakley, John Joseph [MA-9]; original id: 14039
+504: Moorhead, Carlos J. [CA-22]; original id: 14040
+505: O'BRIEN; original id: 14041
+506: Owens, Wayne [UT-2]; original id: 14042
+507: Parris, Stanford E. (Stan) [VA-8]; original id: 14043
+508: PRITCHARD; original id: 14044
+509: Regula, Ralph [OH-16]; original id: 14045
+510: Rinaldo, Matthew J. [NJ-7]; original id: 14046
+511: RONCALLO; original id: 14047
+512: Rose, Charlie [NC-7]; original id: 14048
+513: RYAN; original id: 14049
+514: SARASIN; original id: 14050
+515: Schroeder, Patricia [CO-1]; original id: 14051
+516: Shuster, Bud [PA-9]; original id: 14052
+517: Stark, Fortney Pete [CA-13]; original id: 14053
+518: STEELMAN; original id: 14054
+519: Studds, Gerry E. [MA-10]; original id: 14055
+520: Symms, Steven D. [ID]; original id: 14056
+521: TAYLOR (MO.); original id: 14057
+522: Thornton, Ray [AR-2]; original id: 14058
+523: TOWELL; original id: 14059
+524: TREEN; original id: 14060
+525: WALSH; original id: 14061
+526: Wilson, Charles [TX-2]; original id: 14062
+527: YOUNG (ALASKA); original id: 14063
+528: YOUNG (TEX.); original id: 14064
+529: YOUNG (ILL.); original id: 14065
+530: Young, Don [AK-98]; original id: 14066
+531: Boggs, Corinne C. (Lindy) [LA-2]; original id: 14067
+532: Collins, Cardiss [IL-7]; original id: 14068
+533: BAUMAN; original id: 14069
+534: Luken, Thomas A. [OH-1]; original id: 14070
+535: Lagomarsino, Robert J. [CA-19]; original id: 14071
+536: Murtha, John P. [PA-12]; original id: 14072
+537: Metzenbaum, Howard M. [OH]; original id: 14073
+538: VANDER VEEN; original id: 14074
+539: Traxler, Bob [MI-8]; original id: 14075
+540: BURTON (CALIF.); original id: 14076
+541: LAXALT; original id: 14077
+542: BARTLETT; original id: 14100
+543: Biden Jr., Joseph R. [DE]; original id: 14101
+544: CLARK; original id: 14102
+545: Domenici, Pete V. [NM]; original id: 14103
+546: HASKELL; original id: 14104
+547: Helms, Jesse [NC]; original id: 14105
+548: HUDDLESTON; original id: 14106
+549: Johnston, J. Bennett [LA]; original id: 14107
+550: Nunn, Sam [GA]; original id: 14108
+551: AMBRO; original id: 14200
+552: AuCoin, Les [OR-1]; original id: 14201
+553: BALDUS; original id: 14202
+554: Baucus, Max [MT]; original id: 14203
+555: BEARD (R. I.); original id: 14204
+556: BEDELL; original id: 14205
+557: BLANCHARD; original id: 14206
+558: BLOUIN; original id: 14207
+559: BONKER; original id: 14208
+560: BRODHEAD; original id: 14209
+561: Carr, Bob [MI-6]; original id: 14210
+562: CORNELL; original id: 14211
+563: Derrick, Butler C. [SC-3]; original id: 14212
+564: Dodd, Christopher J. [CT]; original id: 14213
+565: Downey, Thomas J. [NY-2]; original id: 14214
+566: FISHER; original id: 14215
+567: Early, Joseph D. [MA-3]; original id: 14216
+568: EDGAR; original id: 14217
+569: EMERY; original id: 14218
+570: English, Glenn [OK-6]; original id: 14219
+571: EVANS (IND.); original id: 14220
+572: FENWICK; original id: 14221
+573: FITHIAN; original id: 14222
+574: Florio, James J. [NJ-1]; original id: 14223
+575: Ford, Harold E. [TN-9]; original id: 14224
+576: Gradison, Willis D., Jr. [OH-2]; original id: 14225
+577: Grassley, Charles E. [IA]; original id: 14226
+578: HAGEDORN; original id: 14227
+579: HALL (ILL.); original id: 14228
+580: HANNAFORD; original id: 14229
+581: Harkin, Tom [IA]; original id: 14230
+582: HARRIS; original id: 14231
+583: HAYES; original id: 14232
+584: Hefner, W. G. (Bill) [NC-8]; original id: 14233
+585: HIGHTOWER; original id: 14234
+586: HOLLAND; original id: 14235
+587: HOWE; original id: 14236
+588: Hubbard, Carroll, Jr. [KY-1]; original id: 14237
+589: Hughes, William J. [NJ-2]; original id: 14238
+590: Hyde, Henry J. [IL-6]; original id: 14239
+591: Jeffords, James M. [VT]; original id: 14240
+592: JENRETTE; original id: 14241
+593: Kasten, Robert W., Jr. [WI]; original id: 14242
+594: KELLY; original id: 14243
+595: KEYS; original id: 14244
+596: KINDNESS; original id: 14245
+597: KREBS; original id: 14246
+598: Krueger, Robert C. [TX]; original id: 14247
+599: LaFalce, John J. [NY-32]; original id: 14248
+600: LEVITAS; original id: 14249
+601: LLOYD (CALIF.); original id: 14250
+602: Lloyd, Marilyn [TN-3]; original id: 14251
+603: MCDONALD; original id: 14252
+604: McHugh, Matthew F. [NY-28]; original id: 14253
+605: MAGUIRE; original id: 14254
+606: MEYNER; original id: 14255
+607: Miller, George [CA-7]; original id: 14256
+608: Mineta, Norman Y. [CA-13]; original id: 14257
+609: MOFFETT; original id: 14258
+610: MOORE; original id: 14259
+611: MOTTL; original id: 14260
+612: MYERS, GARY A.; original id: 14261
+613: Neal, Stephen L. [NC-5]; original id: 14262
+614: NOLAN; original id: 14263
+615: Nowak, Henry [NY-33]; original id: 14264
+616: Oberstar, James L. [MN-8]; original id: 14265
+617: PATTERSON; original id: 14266
+618: PATTISON; original id: 14267
+619: Pressler, Larry [SD]; original id: 14268
+620: RICHMOND; original id: 14269
+621: RISENHOOVER; original id: 14270
+622: Russo, Martin A. [IL-3]; original id: 14271
+623: SANTINI; original id: 14272
+624: Schulze, Richard T. [PA-5]; original id: 14273
+625: Sharp, Philip R. [IN-2]; original id: 14274
+626: Simon, Paul [IL]; original id: 14275
+627: Smith, Virginia [NE-3]; original id: 14276
+628: Solarz, Stephen J. [NY-13]; original id: 14277
+629: SPELLMAN; original id: 14278
+630: TSONGAS; original id: 14279
+631: Waxman, Henry A. [CA-24]; original id: 14280
+632: WEAVER; original id: 14281
+633: Wirth, Timothy [CO]; original id: 14282
+634: ZEFERETTI; original id: 14283
+635: D'AMOURS; original id: 14284
+636: FARY; original id: 14285
+637: ALLEN; original id: 14286
+638: PETTIS, SHIRLEY N.; original id: 14287
+639: Goodling, William F. [PA-19]; original id: 14288
+640: LUNDINE; original id: 14289
+641: Paul, Ron [TX-14]; original id: 14290
+642: HALL (TEX.); original id: 14291
+643: Bumpers, Dale [AR]; original id: 14300
+644: Ford, Wendell H. [KY]; original id: 14302
+645: Garn, E. J. (Jake) [UT]; original id: 14303
+646: Glenn, John H., Jr. [OH]; original id: 14304
+647: HART (COLO.); original id: 14305
+648: Leahy, Patrick J. [VT]; original id: 14307
+649: MORGAN; original id: 14308
+650: STONE; original id: 14309
+651: DURKIN; original id: 14310
+652: Akaka, Daniel K. [HI-2]; original id: 14400
+653: AMMERMAN; original id: 14401
+654: Applegate, Douglas [OH-18]; original id: 14402
+655: BADHAM; original id: 14403
+656: Barnard, Doug, Jr. [GA-10]; original id: 14404
+657: Beilenson, Anthony C. [CA-23]; original id: 14405
+658: BENJAMIN; original id: 14406
+659: Bonior, David E. [MI-12]; original id: 14407
+660: CAPUTO; original id: 14408
+661: CAVANAUGH; original id: 14409
+662: Coleman, Ronald D. [TX-16]; original id: 14410
+663: CORCORAN; original id: 14411
+664: CORNWELL; original id: 14412
+665: Dicks, Norman D. [WA-6]; original id: 14413
+666: Dornan, Robert K. [CA-38]; original id: 14414
+667: Edwards, Mickey [OK-5]; original id: 14415
+668: ERTEL; original id: 14416
+669: EVANS (DEL.); original id: 14417
+670: EVANS (GA.); original id: 14418
+671: Flippo, Ronnie G. [AL-5]; original id: 14419
+672: GAMMAGE; original id: 14420
+673: Gephardt, Richard A. [MO-3]; original id: 14421
+674: Glickman, Dan [KS-4]; original id: 14422
+675: Gore, Albert, Jr. [TN]; original id: 14423
+676: GUDGER; original id: 14424
+677: HEFTEL; original id: 14425
+678: HOLLENBECK; original id: 14426
+679: Huckaby, Thomas J. (Jerry) [LA-5]; original id: 14427
+680: Ireland, Andrew P. [FL-10]; original id: 14428
+681: Jenkins, Edgar L. [GA-9]; original id: 14429
+682: Kildee, Dale E. [MI-7]; original id: 14430
+683: Kostmayer, Peter H. [PA-8]; original id: 14431
+684: Leach, James A. [IA-1]; original id: 14432
+685: LEFANTE; original id: 14433
+686: LEDERER; original id: 14434
+687: Markey, Edward J. [MA-7]; original id: 14435
+688: MARKS; original id: 14436
+689: Marlenee, Ron [MT-2]; original id: 14437
+690: MARRIOTT; original id: 14438
+691: MATTOX; original id: 14439
+692: Mikulski, Barbara A. [MD]; original id: 14440
+693: Murphy, Austin J. [PA-22]; original id: 14441
+694: MYERS, MICHAEL; original id: 14442
+695: Oakar, Mary Rose [OH-20]; original id: 14443
+696: Panetta, Leon [CA-16]; original id: 14444
+697: Pease, Donald J. [OH-13]; original id: 14445
+698: Pursell, Carl D. [MI-2]; original id: 14446
+699: QUAYLE; original id: 14447
+700: Rahall, Nick J., II [WV-4]; original id: 14448
+701: RUDD; original id: 14449
+702: SAWYER; original id: 14450
+703: Skelton, Ike [MO-4]; original id: 14451
+704: STEERS; original id: 14452
+705: STOCKMAN; original id: 14453
+706: Stump, Bob [AZ-3]; original id: 14454
+707: TONRY; original id: 14455
+708: TRIBLE; original id: 14456
+709: TUCKER; original id: 14457
+710: Vento, Bruce F. [MN-4]; original id: 14458
+711: Volkmer, Harold L. [MO-9]; original id: 14459
+712: Walgren, Doug [PA-18]; original id: 14460
+713: Walker, Robert S. [PA-16]; original id: 14461
+714: Watkins, Wes [OK-3]; original id: 14462
+715: Weiss, Ted [NY-17]; original id: 14463
+716: WHITLEY; original id: 14464
+717: YOUNG (MO.); original id: 14465
+718: Stangeland, Arlan [MN-7]; original id: 14466
+719: Fowler, Wyche, Jr. [GA]; original id: 14467
+720: CUNNINGHAM; original id: 14468
+721: Livingston, Bob [LA-1]; original id: 14469
+722: Garcia, Robert [NY-18]; original id: 14470
+723: Green, S. William [NY-15]; original id: 14471
+724: Chafee, John H. [RI]; original id: 14500
+725: Danforth, John C. [MO]; original id: 14501
+726: DeConcini, Dennis [AZ]; original id: 14502
+727: Hatch, Orrin G. [UT]; original id: 14503
+728: HAYAKAWA; original id: 14504
+729: Lugar, Richard G. [IN]; original id: 14506
+730: Moynihan, Daniel Patrick [NY]; original id: 14508
+731: Sasser, Jim [TN]; original id: 14509
+732: SCHMITT; original id: 14510
+733: Wallop, Malcolm [WY]; original id: 14511
+734: ZORINSKY; original id: 14512
+735: ANDERSON; original id: 14513
+736: HODGES; original id: 14514
+737: HATFIELD (MONT.); original id: 14515
+738: HUMPHREY (MURIEL); original id: 14516
+739: ALLEN (MARYON); original id: 14517
+740: ALBOSTA; original id: 14600
+741: Anthony, Beryl, Jr. [AR-4]; original id: 14601
+742: ATKINSON; original id: 14602
+743: BAILEY, D.; original id: 14603
+744: BARNES; original id: 14604
+745: Bereuter, Doug [NE-1]; original id: 14605
+746: BETHUNE; original id: 14606
+747: BONER; original id: 14607
+748: Byron, Beverly B. [MD-6]; original id: 14608
+749: CAMPBELL; original id: 14609
+750: CARNEY; original id: 14610
+751: Cheney, Dick [WY]; original id: 14611
+752: Clinger, William F., Jr. [PA-23]; original id: 14612
+753: Coelho, Anthony Lee [CA-15]; original id: 14613
+754: Courter, Jim [NJ-12]; original id: 14614
+755: CRANE, D.; original id: 14615
+756: Dannemeyer, William E. [CA-39]; original id: 14616
+757: Daschle, Thomas A. [SD]; original id: 14617
+758: Davis, Robert W. [MI-11]; original id: 14618
+759: DECKARD; original id: 14619
+760: Dixon, Julian C. [CA-28]; original id: 14620
+761: Donnelly, Brian J. [MA-11]; original id: 14621
+762: DOUGHERTY; original id: 14622
+763: ERDAHL; original id: 14623
+764: Fazio, Vic [CA-4]; original id: 14624
+765: FERRARO; original id: 14625
+766: Frost, Martin [TX-24]; original id: 14626
+767: Gingrich, Newt [GA-6]; original id: 14627
+768: Gramm, Phil [TX]; original id: 14628
+769: Gray, William H., III [PA-2]; original id: 14629
+770: GRISHAM; original id: 14630
+771: Guarini, Frank J. [NJ-14]; original id: 14631
+772: Hall, Tony P. [OH-3]; original id: 14632
+773: HANCE; original id: 14633
+774: HINSON; original id: 14634
+775: Hopkins, Larry J. [KY-6]; original id: 14635
+776: Hutto, Earl [FL-1]; original id: 14636
+777: JEFFRIES; original id: 14637
+778: KOGOVSEK; original id: 14638
+779: KRAMER; original id: 14639
+780: LEACH, C.; original id: 14640
+781: Leath, Marvin [TX-11]; original id: 14641
+782: LEE; original id: 14642
+783: Leland, Mickey [TX-18]; original id: 14643
+784: Lewis, Jerry [CA-35]; original id: 14644
+785: LOEFFLER; original id: 14645
+786: LOWRY; original id: 14646
+787: LUNGREN; original id: 14647
+788: MICA; original id: 14648
+789: Matsui, Robert T. [CA-3]; original id: 14649
+790: Mavroules, Nicholas [MA-6]; original id: 14650
+791: Nelson, Bill [FL-11]; original id: 14651
+792: Pashayan, Charles, Jr. [CA-17]; original id: 14652
+793: RATCHFORD; original id: 14653
+794: Ritter, Don [PA-15]; original id: 14654
+795: Roth, Toby [WI-8]; original id: 14655
+796: Sabo, Martin Olav [MN-5]; original id: 14656
+797: Sensenbrenner, F. James, Jr. [WI-9]; original id: 14657
+798: SHANNON; original id: 14658
+799: Shelby, Richard C. [AL]; original id: 14659
+800: Shumway, Norman D. [CA-14]; original id: 14660
+801: Snowe, Olympia J. [ME-2]; original id: 14661
+802: Solomon, Gerald B. H. [NY-24]; original id: 14662
+803: STACK; original id: 14663
+804: Stenholm, Charles W. [TX-17]; original id: 14664
+805: STEWART, B.; original id: 14665
+806: Swift, Al [WA-2]; original id: 14666
+807: Synar, Mike [OK-2]; original id: 14667
+808: Tauke, Thomas Joseph [IA-2]; original id: 14668
+809: Thomas, William M. [CA-20]; original id: 14669
+810: Whittaker, Bob [KS-5]; original id: 14670
+811: WILLIAMS, L.; original id: 14671
+812: Williams, Pat [MT-1]; original id: 14672
+813: Wolpe, Howard E. [MI-3]; original id: 14673
+814: WYATT; original id: 14674
+815: Petri, Thomas E. [WI-6]; original id: 14675
+816: ROYER; original id: 14676
+817: Porter, John Edward [IL-10]; original id: 14677
+818: MUSTO; original id: 14678
+819: Tauzin, W. J. (Billy) [LA-3]; original id: 14679
+820: HUTCHINSON; original id: 14680
+821: Crockett, George W., Jr. [MI-13]; original id: 14681
+822: Boren, David L. [OK]; original id: 14700
+823: Boschwitz, Rudy [MN]; original id: 14701
+824: Bradley, Bill [NJ]; original id: 14702
+825: Durenberger, Dave [MN]; original id: 14703
+826: Exon, J. James [NE]; original id: 14704
+827: Heflin, Howell [AL]; original id: 14705
+828: Humphrey, Gordon J. [NH]; original id: 14706
+829: JEPSEN; original id: 14707
+830: Kassebaum, Nancy Landon [KS]; original id: 14708
+831: Levin, Carl [MI]; original id: 14709
+832: Simpson, Alan K. [WY]; original id: 14710
+833: STEWART; original id: 14711
+834: Warner, John W. [VA]; original id: 14712
+835: Mitchell, George J. [ME]; original id: 14713
+836: BAILEY, W.; original id: 14800
+837: BENEDICT; original id: 14801
+838: Bliley, Tom [VA-3]; original id: 14802
+839: Brown, Hank [CO-4]; original id: 14803
+840: CARMAN; original id: 14804
+841: CHAPPIE; original id: 14805
+842: Coats, Daniel [IN]; original id: 14806
+843: COYNE, J.; original id: 14807
+844: Coyne, William J. [PA-14]; original id: 14808
+845: Craig, Larry E. [ID-1]; original id: 14809
+846: DAUB; original id: 14810
+847: DENARDIS; original id: 14811
+848: Dorgan, Byron L. [ND]; original id: 14812
+849: Dreier, David [CA-33]; original id: 14813
+850: DUNN; original id: 14814
+851: Dwyer, Bernard J. [NJ-6]; original id: 14815
+852: Dymally, Mervyn M. [CA-31]; original id: 14816
+853: Dyson, Roy [MD-1]; original id: 14817
+854: Eckart, Dennis E. [OH-11]; original id: 14818
+855: Emerson, Bill [MO-8]; original id: 14819
+856: EVANS, C.; original id: 14820
+857: FIEDLER; original id: 14821
+858: Fields, Jack [TX-8]; original id: 14822
+859: Foglietta, Thomas M. [PA-1]; original id: 14823
+860: Frank, Barney [MA-4]; original id: 14824
+861: Gejdenson, Sam [CT-2]; original id: 14825
+862: Gregg, Judd [NH]; original id: 14826
+863: Gunderson, Steve [WI-3]; original id: 14827
+864: Hall, Ralph M. [TX-4]; original id: 14828
+865: Hansen, James V. [UT-1]; original id: 14829
+866: HARTNETT; original id: 14830
+867: Hatcher, Charles [GA-2]; original id: 14831
+868: HENDON; original id: 14832
+869: Hertel, Dennis M. [MI-14]; original id: 14833
+870: Hiler, John Patrick [IN-3]; original id: 14834
+871: Hunter, Duncan [CA-45]; original id: 14835
+872: JOHNSTON; original id: 14836
+873: Lantos, Tom [CA-11]; original id: 14837
+874: LEBOUTILLIER; original id: 14838
+875: Lowery, Bill [CA-41]; original id: 14839
+876: Martin, David O'B. [NY-26]; original id: 14840
+877: Martin, Lynn M. [IL-16]; original id: 14841
+878: McCollum, Bill [FL-5]; original id: 14842
+879: McCurdy, Dave [OK-4]; original id: 14843
+880: McEwen, Bob [OH-6]; original id: 14844
+881: McGrath, Raymond J. [NY-5]; original id: 14845
+882: Molinari, Guy [NY-14]; original id: 14846
+883: Morrison, Sid [WA-4]; original id: 14847
+884: NAPIER; original id: 14848
+885: NELLIGAN; original id: 14849
+886: PATMAN; original id: 14850
+887: ROBERTS, C.; original id: 14851
+888: Roberts, Pat [KS-1]; original id: 14852
+889: ROEMER; original id: 14853
+890: Rogers, Harold [KY-5]; original id: 14854
+891: Roukema, Marge [NJ-5]; original id: 14855
+892: Savage, Gus [IL-2]; original id: 14856
+893: Schneider, Claudine [RI-2]; original id: 14857
+894: Schumer, Charles E. [NY-10]; original id: 14858
+895: SHAMANSKY; original id: 14859
+896: Shaw, E. Clay, Jr. [FL-15]; original id: 14860
+897: Skeen, Joe [NM-2]; original id: 14861
+898: SMITH, A.; original id: 14862
+899: Smith, Christopher H. [NJ-4]; original id: 14863
+900: Smith, Denny [OR-5]; original id: 14864
+901: STATON; original id: 14865
+902: WASHINGTON; original id: 14866
+903: WEBER, E.; original id: 14867
+904: Weber, Vin [MN-2]; original id: 14868
+905: Wolf, Frank R. [VA-10]; original id: 14869
+906: WORTLEY; original id: 14870
+907: Wyden, Ron [OR-3]; original id: 14871
+908: SILJANDER; original id: 14872
+909: Hoyer, Steny H. [MD-5]; original id: 14873
+910: DOWDY; original id: 14874
+911: Oxley, Michael G. [OH-4]; original id: 14875
+912: SMITH, J.; original id: 14876
+913: Kennelly, Barbara B. [CT-1]; original id: 14877
+914: Martinez, Matthew G. [CA-30]; original id: 14879
+915: HALL, H.; original id: 14880
+916: D'Amato, Alfonse [NY]; original id: 14900
+917: DENTON; original id: 14901
+918: Dixon, Alan J. [IL]; original id: 14902
+919: EAST; original id: 14903
+920: Gorton, Slade [WA]; original id: 14904
+921: HAWKINS; original id: 14905
+922: MATTINGLY; original id: 14906
+923: Murkowski, Frank H. [AK]; original id: 14907
+924: Nickles, Don [OK]; original id: 14908
+925: Rudman, Warren [NH]; original id: 14909
+926: Specter, Arlen [PA]; original id: 14910
+927: BRADY; original id: 14911
+928: Bingaman, Jeff [NM]; original id: 14912
+929: HECHT; original id: 14913
+930: Lautenberg, Frank R. [NJ]; original id: 14914
+931: Wilson, Pete [CA]; original id: 14915
+932: EVANS; original id: 14916
+933: Kerry, John F. [MA]; original id: 14920
+934: McConnell, Mitch [KY]; original id: 14921
+935: Rockefeller, Jay [WV]; original id: 14922
+936: Ackerman, Gary L. [NY-7]; original id: 15000
+937: Andrews, Michael [TX-25]; original id: 15001
+938: Bartlett, Steve [TX-3]; original id: 15002
+939: Bateman, Herbert H. [VA-1]; original id: 15003
+940: Bates, Jim [CA-44]; original id: 15004
+941: Berman, Howard L. [CA-26]; original id: 15005
+942: Bilirakis, Michael [FL-9]; original id: 15006
+943: Boehlert, Sherwood L. [NY-25]; original id: 15007
+944: Borski, Robert A. [PA-3]; original id: 15008
+945: Bosco, Douglas H. [CA-1]; original id: 15009
+946: Boucher, Rick [VA-9]; original id: 15010
+947: Boxer, Barbara [CA-6]; original id: 15011
+948: BRITT; original id: 15012
+949: Bryant, John W. [TX-5]; original id: 15013
+950: Burton, Dan [IN-6]; original id: 15014
+951: Carper, Thomas R. [DE-98]; original id: 15015
+952: Chandler, Rod D. [WA-8]; original id: 15016
+953: Clarke, James McC. [NC-11]; original id: 15017
+954: Coleman, Ronald D. [TX-16]; original id: 15018
+955: Cooper, Jim [TN-4]; original id: 15019
+956: DeWine, Michael [OH-7]; original id: 15020
+957: Durbin, Richard J. [IL-20]; original id: 15021
+958: Erdreich, Ben [AL-6]; original id: 15022
+959: Evans, Lane [IL-17]; original id: 15023
+960: Feighan, Edward F. [OH-19]; original id: 15024
+961: FRANKLIN; original id: 15025
+962: Gekas, George W. [PA-17]; original id: 15026
+963: HARRISON; original id: 15027
+964: Johnson, Nancy L. [CT-6]; original id: 15028
+965: Kaptur, Marcy [OH-9]; original id: 15029
+966: Kasich, John R. [OH-12]; original id: 15030
+967: Kolter, Joseph P. [PA-4]; original id: 15031
+968: Lehman, Richard H. [CA-18]; original id: 15032
+969: Levin, Sander M. [MI-17]; original id: 15033
+970: Levine, Mel [CA-27]; original id: 15034
+971: Lewis, Thomas F. [FL-12]; original id: 15035
+972: Lipinski, William O. [IL-5]; original id: 15036
+973: Mack, Connie [FL]; original id: 15037
+974: MACKAY; original id: 15038
+975: McCain, John [AZ]; original id: 15039
+976: McCandless, Alfred A. (Al) [CA-37]; original id: 15040
+977: McCloskey, Frank [IN-8]; original id: 15041
+978: MCKERNAN; original id: 15042
+979: MCNULTY; original id: 15043
+980: Moody, Jim [WI-5]; original id: 15044
+981: Morrison, Bruce A. [CT-3]; original id: 15045
+982: Mrazek, Robert J. [NY-3]; original id: 15046
+983: Nielson, Howard C. [UT-3]; original id: 15047
+984: Olin, James R. [VA-6]; original id: 15048
+985: Ortiz, Solomon P. [TX-27]; original id: 15049
+986: Owens, Major R. [NY-12]; original id: 15050
+987: Packard, Ron [CA-43]; original id: 15051
+988: Penny, Timothy J. [MN-1]; original id: 15052
+989: Ray, Richard B. [GA-3]; original id: 15053
+990: Reid, Harry M. [NV]; original id: 15054
+991: Richardson, Bill [NM-3]; original id: 15055
+992: Ridge, Thomas J. [PA-21]; original id: 15056
+993: Rowland, J. Roy [GA-8]; original id: 15057
+994: Schaefer, Dan [CO-6]; original id: 15058
+995: Sikorski, Gerry E. [MN-6]; original id: 15059
+996: Sisisky, Norman [VA-4]; original id: 15060
+997: Slattery, Jim [KS-2]; original id: 15061
+998: Smith, Lawrence [FL-16]; original id: 15062
+999: Smith, Robert [OR-2]; original id: 15063
+1000: Spratt, John M., Jr. [SC-5]; original id: 15064
+1001: Staggers, Harley O., Jr. [WV-2]; original id: 15065
+1002: Sundquist, Don [TN-7]; original id: 15066
+1003: Tallon, Robert M. (Robin) [SC-6]; original id: 15068
+1004: Thomas, Lindsay [GA-1]; original id: 15069
+1005: Torres, Estaban Edward [CA-34]; original id: 15070
+1006: Torricelli, Robert G. [NJ-9]; original id: 15071
+1007: Towns, Edolphus [NY-11]; original id: 15072
+1008: Valentine, Tim [NC-2]; original id: 15073
+1009: VANDER JAGT; original id: 15074
+1010: Vucanovich, Barbara F. [NV-2]; original id: 15075
+1011: Wheat, Alan [MO-5]; original id: 15076
+1012: Wise, Robert E., Jr. [WV-3]; original id: 15077
+1013: ZSCHAU; original id: 15078
+1014: Hayes, Charles A. [IL-1]; original id: 15079
+1015: BURTON, S.; original id: 15080
+1016: Darden, George (Buddy) [GA-7]; original id: 15081
+1017: Kleczka, Gerald D. [WI-4]; original id: 15082
+1018: Mollohan, Alan B. [WV-1]; original id: 15083
+1019: Atkins, Chester G. [MA-5]; original id: 15084
+1020: Barton, Joe [TX-6]; original id: 15085
+1021: Bentley, Helen Delich [MD-2]; original id: 15086
+1022: BOULTER; original id: 15087
+1023: Bruce, Terry L. [IL-19]; original id: 15088
+1024: Bustamante, Albert G. [TX-23]; original id: 15089
+1025: Callahan, Sonny [AL-1]; original id: 15090
+1026: COBEY; original id: 15091
+1027: Coble, Howard [NC-6]; original id: 15092
+1028: Combest, Larry [TX-19]; original id: 15093
+1029: DeLay, Tom [TX-22]; original id: 15094
+1030: DIOGUARDI; original id: 15095
+1031: ECKERT; original id: 15097
+1032: Fawell, Harris W. [IL-13]; original id: 15098
+1033: Gallo, Dean A. [NJ-11]; original id: 15099
+1034: Gordon, Bart [TN-6]; original id: 15100
+1035: GRAY, K.; original id: 15101
+1036: GROTBERG; original id: 15102
+1037: Henry, Paul B. [MI-5]; original id: 15103
+1038: Kanjorski, Paul E. [PA-11]; original id: 15104
+1039: Kolbe, Jim [AZ-5]; original id: 15105
+1040: Lightfoot, Jim [IA-5]; original id: 15106
+1041: Manton, Thomas J. [NY-9]; original id: 15107
+1042: McMillan, J. Alex [NC-9]; original id: 15108
+1043: Meyers, Jan [KS-3]; original id: 15109
+1044: Miller, John R. [WA-1]; original id: 15110
+1045: MONSON; original id: 15111
+1046: Saxton, Jim [NJ-13]; original id: 15112
+1047: Schuette, Bill [MI-10]; original id: 15114
+1048: Slaughter, Louise McIntosh [NY-30]; original id: 15115
+1049: Smith, Bob [NH-1]; original id: 15116
+1050: Stallings, Richard H. [ID-2]; original id: 15117
+1051: STRANG; original id: 15118
+1052: SWEENEY; original id: 15119
+1053: SWINDALL; original id: 15120
+1054: Traficant, James A., Jr. [OH-17]; original id: 15121
+1055: ROBINSON, T.; original id: 15122
+1056: Rowland, John G. [CT-5]; original id: 15123
+1057: Visclosky, Peter J. [IN-1]; original id: 15124
+1058: Armey, Richard K. [TX-26]; original id: 15125
+1059: HENDON; original id: 15126
+1060: LONG, C.; original id: 15128
+1061: Chapman, Jim [TX-1]; original id: 15129
+1062: Patterson, Elizabeth [SC-4]; original id: 15171
+1063: Perkins, Carl C. [KY-7]; original id: 15228
+1064: WALDON; original id: 15244
+1065: Abercrombie, Neil [HI-1]; original id: 15245
+1066: Baker, Richard H. [LA-6]; original id: 15401
+1067: Ballenger, Cass [NC-10]; original id: 15402
+1068: Bilbray, James H. [NV-1]; original id: 15403
+1069: Brennan, Joseph E. [ME-1]; original id: 15404
+1070: Buechner, Jack [MO-2]; original id: 15405
+1071: Bunning, Jim [KY-4]; original id: 15406
+1072: Campbell, Ben Nighthorse [CO-3]; original id: 15407
+1073: Cardin, Benjamin L. [MD-3]; original id: 15408
+1074: DAVIS, J.; original id: 15409
+1075: DeFazio, Peter A. [OR-4]; original id: 15410
+1076: Espy, Mike [MS-2]; original id: 15411
+1077: Flake, Floyd H. [NY-6]; original id: 15412
+1078: Gallegly, Elton [CA-21]; original id: 15413
+1079: Grandy, Fred [IA-6]; original id: 15414
+1080: Grant, Bill [FL-2]; original id: 15415
+1081: Harris, Claude [AL-7]; original id: 15416
+1082: Hastert, J. Dennis [IL-14]; original id: 15417
+1083: Hayes, James A. [LA-7]; original id: 15418
+1084: Hefley, Joel [CO-5]; original id: 15419
+1085: Herger, Wally [CA-2]; original id: 15420
+1086: Hochbrueckner, George J. [NY-1]; original id: 15421
+1087: Holloway, Clyde [LA-8]; original id: 15422
+1088: Houghton, Amo [NY-34]; original id: 15423
+1089: Inhofe, Jim [OK-1]; original id: 15424
+1090: Johnson, Tim [SD]; original id: 15425
+1091: Jontz, Jim [IN-5]; original id: 15426
+1092: Kennedy, Joseph P., II [MA-8]; original id: 15427
+1093: KONNYU; original id: 15428
+1094: Kyl, Jon [AZ-4]; original id: 15429
+1095: Lancaster, H. Martin [NC-3]; original id: 15430
+1096: Lewis, John [GA-5]; original id: 15431
+1097: McMillen, Thomas [MD-4]; original id: 15432
+1098: Mfume, Kweisi [MD-7]; original id: 15433
+1099: Morella, Constance A. [MD-8]; original id: 15434
+1100: Nagle, Dave R, [IA-3]; original id: 15435
+1101: Pickett, Owen B. [VA-2]; original id: 15437
+1102: Price, David E. [NC-4]; original id: 15438
+1103: Ravenel, Arthur, Jr. [SC-1]; original id: 15439
+1104: Rhodes, John J., III [AZ-1]; original id: 15440
+1105: Saiki, Patricia [HI-1]; original id: 15441
+1106: Sawyer, Thomas C. [OH-14]; original id: 15442
+1107: Skaggs, David E. [CO-2]; original id: 15443
+1108: Slaughter, Louise McIntosh [NY-30]; original id: 15444
+1109: Smith, Lamar [TX-21]; original id: 15445
+1110: Upton, Fred [MI-4]; original id: 15446
+1111: Weldon, Curt [PA-7]; original id: 15447
+1112: Pelosi, Nancy [CA-5]; original id: 15448
+1113: Shays, Christopher [CT-4]; original id: 15449
+1114: Clement, Bob [TN-5]; original id: 15450
+1115: McCrery, Jim [LA-4]; original id: 15451
+1116: Payne, Lewis F., Jr. [VA-5]; original id: 15452
+1117: Costello, Jerry F. [IL-21]; original id: 15453
+1118: Pallone, Frank, Jr. [NJ-3]; original id: 15454
+1119: Duncan, John J., Jr. [TN-2]; original id: 15455
+1120: Bond, Christopher S. [MO]; original id: 15501
+1121: Conrad, Kent [ND]; original id: 15502
+1122: Graham, Bob [FL]; original id: 15503
+1123: Sanford, Terry [NC]; original id: 15504
+1124: KARNES; original id: 15505
+1125: Campbell, Tom [CA-12]; original id: 15600
+1126: Cox, Christopher [CA-40]; original id: 15601
+1127: Douglas, Chuck [NH-2]; original id: 15602
+1128: Engel, Eliot L. [NY-19]; original id: 15603
+1129: Gillmor, Paul E. [OH-5]; original id: 15604
+1130: Goss, Porter J. [FL-13]; original id: 15605
+1131: Hancock, Mel [MO-7]; original id: 15606
+1132: Hoagland, Peter [NE-2]; original id: 15607
+1133: James, Craig T. [FL-4]; original id: 15608
+1134: Johnston, Harry [FL-14]; original id: 15609
+1135: Laughlin, Greg [TX-14]; original id: 15611
+1136: Lowey, Nita M. [NY-20]; original id: 15612
+1137: McDermott, Jim [WA-7]; original id: 15613
+1138: McNulty, Michael R. [NY-23]; original id: 15614
+1139: Machtley, Ronald K. [RI-1]; original id: 15615
+1140: Neal, Richard E. [MA-2]; original id: 15616
+1141: Parker, Mike [MS-4]; original id: 15617
+1142: Paxon, Bill [NY-31]; original id: 15618
+1143: Payne, Donald M. [NJ-10]; original id: 15619
+1144: Poshard, Glenn [IL-22]; original id: 15620
+1145: Rohrabacher, Dana [CA-42]; original id: 15621
+1146: Sangmeister, George E. [IL-11]; original id: 15622
+1147: Sarpalius, Bill [TX-13]; original id: 15623
+1148: Schiff, Steven [NM-1]; original id: 15624
+1149: Smith, Larkin [MS-5]; original id: 15625
+1150: Smith, Peter [VT]; original id: 15626
+1151: Stearns, Cliff [FL-6]; original id: 15627
+1152: Tanner, John S. [TN-8]; original id: 15628
+1153: Unsoeld, Jolene [WA-3]; original id: 15629
+1154: Walsh, James T. [NY-27]; original id: 15630
+1155: Long, Jill L. [IN-4]; original id: 15631
+1156: Browder, Glen [AL-3]; original id: 15632
+1157: Thomas, Craig [WY]; original id: 15633
+1158: Ros-Lehtinen, Ileana [FL-18]; original id: 15634
+1159: Condit, Gary A. [CA-15]; original id: 15635
+1160: Geren, Pete [TX-12]; original id: 15636
+1161: Taylor, Gene [MS-5]; original id: 15637
+1162: Molinari, Susan [NY-14]; original id: 15639
+1163: Bryan, Richard H. [NV]; original id: 15700
+1164: Burns, Conrad R. [MT]; original id: 15701
+1165: Kerrey, J. Robert [NE]; original id: 15702
+1166: Kohl, Herb [WI]; original id: 15703
+1167: Lieberman, Joseph I. [CT]; original id: 15704
+1168: Robb, Charles S. [VA]; original id: 15705
+1169: Luken, Charles [OH-1]; original id: 15823
+1170: Flake, Jeff [AZ-1]; original id: 20100
+1171: Boozman, John [AR-3]; original id: 20101
+1172: Ross, Mike [AR-4]; original id: 20102
+1173: Honda, Michael M. [CA-15]; original id: 20103
+1174: Schiff, Adam B. [CA-27]; original id: 20104
+1175: Solis, Hilda L. [CA-31]; original id: 20105
+1176: Watson, Diane E. [CA-32]; original id: 20106
+1177: Issa, Darrell E. [CA-48]; original id: 20107
+1178: Davis, Susan A. [CA-49]; original id: 20108
+1179: Simmons, Rob [CT-2]; original id: 20109
+1180: Miller, Jeff [FL-1]; original id: 20110
+1181: Crenshaw, Ander [FL-4]; original id: 20111
+1182: Keller, Ric [FL-8]; original id: 20112
+1183: Putnam, Adam H. [FL-12]; original id: 20113
+1184: Otter, C. L. (Butch) [ID-1]; original id: 20114
+1185: Kirk, Mark Steven [IL-10]; original id: 20115
+1186: Johnson, Eddie Bernice [TX-30]; original id: 20116
+1187: Pence, Mike [IN-2]; original id: 20117
+1188: Kerns, Brian D. [IN-7]; original id: 20118
+1189: Lynch, Stephen F. [MA-9]; original id: 20119
+1190: Rogers, Mike [MI-8]; original id: 20120
+1191: Kennedy, Mark R. [MN-2]; original id: 20121
+1192: McCollum, Betty [MN-4]; original id: 20122
+1193: Akin, W. Todd [MO-2]; original id: 20123
+1194: Graves, Sam [MO-6]; original id: 20124
+1195: Rehberg, Dennis R. [MT]; original id: 20125
+1196: Osborne, Tom [NE-3]; original id: 20126
+1197: Ferguson, Mike [NJ-7]; original id: 20127
+1198: Grucci, Felix J., Jr. [NY-1]; original id: 20128
+1199: Israel, Steve [NY-2]; original id: 20129
+1200: Tiberi, Patrick J. [OH-12]; original id: 20130
+1201: Sullivan, John [OK-1]; original id: 20131
+1202: Carson, Brad [OK-2]; original id: 20132
+1203: Hart, Melissa A. [PA-4]; original id: 20133
+1204: Shuster, Bill [PA-9]; original id: 20134
+1205: Platts, Todd Russell [PA-19]; original id: 20135
+1206: Langevin, James R. [RI-2]; original id: 20136
+1207: Brown, Henry E., Jr. [SC-1]; original id: 20137
+1208: Wilson, Joe [SC-2]; original id: 20138
+1209: Culberson, John Abney [TX-7]; original id: 20139
+1210: Matheson, Jim [UT-2]; original id: 20140
+1211: Davis, Jo Ann [VA-1]; original id: 20141
+1212: Schrock, Edward L. [VA-2]; original id: 20142
+1213: Forbes, J. Randy [VA-4]; original id: 20143
+1214: Cantor, Eric [VA-7]; original id: 20144
+1215: Larsen, Rick [WA-2]; original id: 20145
+1216: Capito, Shelley Moore [WV-2]; original id: 20146
+1217: Clay, Wm. Lacy [MO-1]; original id: 20147
+1218: Bonner, Jo [AL-1]; original id: 20300
+1219: Rogers, Mike D. [AL-3]; original id: 20301
+1220: Davis, Artur [AL-7]; original id: 20302
+1221: Renzi, Rick [AZ-1]; original id: 20303
+1222: Franks, Trent [AZ-2]; original id: 20304
+1223: Grijalva, Raul M. [AZ-7]; original id: 20305
+1224: Cardoza, Dennis A. [CA-18]; original id: 20306
+1225: Nunes, Devin [CA-21]; original id: 20307
+1226: Thomas, William M. [CA-22]; original id: 20308
+1227: Capps, Lois [CA-23]; original id: 20309
+1228: Sanchez, Linda T. [CA-39]; original id: 20310
+1229: Musgrave, Marilyn N. [CO-4]; original id: 20311
+1230: Beauprez, Bob [CO-7]; original id: 20312
+1231: Brown-Waite, Ginny [FL-5]; original id: 20313
+1232: Harris, Katherine [FL-13]; original id: 20314
+1233: Feeney, Tom [FL-24]; original id: 20315
+1234: Diaz-Balart, Mario [FL-25]; original id: 20316
+1235: Marshall, Jim [GA-3]; original id: 20317
+1236: Majette, Denise L. [GA-4]; original id: 20318
+1237: Gingrey, Phil [GA-11]; original id: 20319
+1238: Burns, Max [GA-12]; original id: 20320
+1239: Scott, David [GA-13]; original id: 20321
+1240: Case, Ed [HI-2]; original id: 20322
+1241: Emanuel, Rahm [IL-5]; original id: 20323
+1242: Chocola, Chris [IN-2]; original id: 20324
+1243: King, Steve [IA-5]; original id: 20325
+1244: Chandler, Ben [KY-6]; original id: 20326
+1245: Alexander, Rodney [LA-5]; original id: 20327
+1246: Michaud, Michael H. [ME-2]; original id: 20328
+1247: Ruppersberger, C. A. Dutch [MD-2]; original id: 20329
+1248: Van Hollen, Chris [MD-8]; original id: 20330
+1249: Miller, Candice S. [MI-10]; original id: 20331
+1250: McCotter, Thaddeus G. [MI-11]; original id: 20332
+1251: Kline, John [MN-2]; original id: 20333
+1252: Porter, Jon C. [NV-3]; original id: 20334
+1253: Bradley, Jeb [NH-1]; original id: 20335
+1254: Garrett, Scott [NJ-5]; original id: 20336
+1255: Pearce, Stevan [NM-2]; original id: 20337
+1256: Bishop, Timothy H. [NY-1]; original id: 20338
+1257: Ballance, Frank W., Jr. [NC-1]; original id: 20339
+1258: Butterfield, G. K. [NC-1]; original id: 20340
+1259: Miller, Brad [NC-13]; original id: 20341
+1260: Turner, Michael R. [OH-3]; original id: 20342
+1261: Ryan, Tim [OH-17]; original id: 20343
+1262: Cole, Tom [OK-4]; original id: 20344
+1263: Gerlach, Jim [PA-6]; original id: 20345
+1264: Murphy, Tim [PA-18]; original id: 20346
+1265: Barrett, J. Gresham [SC-3]; original id: 20347
+1266: Janklow, William J. [SD]; original id: 20348
+1267: Herseth, Stephanie [SD]; original id: 20349
+1268: Davis, Lincoln [TN-4]; original id: 20350
+1269: Blackburn, Marsha [TN-7]; original id: 20351
+1270: Hensarling, Jeb [TX-5]; original id: 20352
+1271: Neugebauer, Randy [TX-19]; original id: 20353
+1272: Bell, Chris [TX-25]; original id: 20354
+1273: Burgess, Michael C. [TX-26]; original id: 20355
+1274: Carter, John R. [TX-31]; original id: 20356
+1275: Bishop, Rob [UT-1]; original id: 20357
+1276: Cramer, Robert E. (Bud), Jr. [AL-5]; original id: 29100
+1277: Pastor, Ed [AZ-2]; original id: 29101
+1278: Riggs, Frank [CA-1]; original id: 29103
+1279: Doolittle, John T. [CA-14]; original id: 29104
+1280: Dooley, Calvin M. [CA-17]; original id: 29105
+1281: Waters, Maxine [CA-29]; original id: 29106
+1282: Cunningham, Randy (Duke) [CA-44]; original id: 29107
+1283: Allard, A. Wayne [CO-4]; original id: 29108
+1284: DeLauro, Rosa L. [CT-3]; original id: 29109
+1285: Franks, Gary A. [CT-5]; original id: 29110
+1286: Peterson, Douglas (Pete) [FL-2]; original id: 29111
+1287: Bacchus, Jim [FL-11]; original id: 29112
+1288: LaRocco, Larry [ID-1]; original id: 29114
+1289: Ewing, Thomas W. [IL-15]; original id: 29115
+1290: Cox, John W., Jr. [IL-16]; original id: 29116
+1291: Roemer, Tim [IN-3]; original id: 29117
+1292: Nussle, Jim [IA-2]; original id: 29118
+1293: Nichols, Dick [KS-5]; original id: 29119
+1294: Jefferson, William J. [LA-2]; original id: 29120
+1295: Andrews, Thomas H. [ME-1]; original id: 29121
+1296: Gilchrest, Wayne T. [MD-1]; original id: 29122
+1297: Olver, John W. [MA-1]; original id: 29123
+1298: Camp, Dave [MI-10]; original id: 29124
+1299: Collins, Barbara-Rose [MI-13]; original id: 29125
+1300: Ramstad, Jim [MN-3]; original id: 29126
+1301: Peterson, Collin C. [MN-7]; original id: 29127
+1302: Horn, Joan Kelly [MO-2]; original id: 29128
+1303: Barrett, Bill [NE-3]; original id: 29129
+1304: Zeliff, William H., Jr. [NH-1]; original id: 29130
+1305: Swett, Dick [NH-2]; original id: 29131
+1306: Andrews, Robert E. [NJ-1]; original id: 29132
+1307: Zimmer, Dick [NJ-12]; original id: 29133
+1308: Serrano, Jose E. [NY-18]; original id: 29134
+1309: Taylor, Charles H. [NC-11]; original id: 29135
+1310: Hobson, David L. [OH-7]; original id: 29136
+1311: Boehner, John A. [OH-8]; original id: 29137
+1312: Brewster, Bill K. [OK-3]; original id: 29138
+1313: Kopetski, Mike [OR-5]; original id: 29139
+1314: Blackwell, Lucien E. [PA-2]; original id: 29140
+1315: Santorum, Rick [PA-18]; original id: 29141
+1316: Reed, John F. [RI-2]; original id: 29142
+1317: Johnson, Timothy V. [IL-15]; original id: 29143
+1318: Edwards, Chet [TX-11]; original id: 29144
+1319: Washington, Craig A. [TX-18]; original id: 29145
+1320: Orton, Bill [UT-3]; original id: 29146
+1321: Sanders, Bernard [VT-98]; original id: 29147
+1322: Allen, George [VA-7]; original id: 29148
+1323: Moran, James P. [VA-8]; original id: 29149
+1324: Klug, Scott L. [WI-2]; original id: 29150
+1325: Everett, Terry [AL-2]; original id: 29300
+1326: Bachus, Spencer [AL-6]; original id: 29301
+1327: Hilliard, Earl F. [AL-7]; original id: 29302
+1328: Coppersmith, Sam [AZ-1]; original id: 29303
+1329: English, Karan [AZ-6]; original id: 29304
+1330: Lambert, Blanche M. [AR-1]; original id: 29305
+1331: Hutchinson, Tim [AR-3]; original id: 29306
+1332: Dickey, Jay [AR-4]; original id: 29307
+1333: Hamburg, Dan [CA-1]; original id: 29308
+1334: Woolsey, Lynn C. [CA-6]; original id: 29309
+1335: Baker, Richard H. [LA-6]; original id: 29310
+1336: Pombo, Richard W. [CA-11]; original id: 29311
+1337: Eshoo, Anna G. [CA-14]; original id: 29312
+1338: Farr, Sam [CA-17]; original id: 29313
+1339: Huffington, Michael [CA-22]; original id: 29314
+1340: McKeon, Howard P. (Buck) [CA-25]; original id: 29315
+1341: Becerra, Xavier [CA-30]; original id: 29316
+1342: Roybal-Allard, Lucille [CA-33]; original id: 29317
+1343: Harman, Jane [CA-36]; original id: 29318
+1344: Tucker, Walter R., III [CA-37]; original id: 29319
+1345: Horn, Stephen [CA-38]; original id: 29320
+1346: Royce, Edward R. [CA-39]; original id: 29321
+1347: Kim, Jay [CA-41]; original id: 29322
+1348: Calvert, Ken [CA-43]; original id: 29323
+1349: Schenk, Lynn [CA-49]; original id: 29324
+1350: Filner, Bob [CA-50]; original id: 29325
+1351: McInnis, Scott [CO-3]; original id: 29326
+1352: Castle, Michael N. [DE-98]; original id: 29327
+1353: Brown, Henry E., Jr. [SC-1]; original id: 29328
+1354: Fowler, Tillie [FL-4]; original id: 29329
+1355: Thurman, Karen L. [FL-5]; original id: 29330
+1356: Mica, John L. [FL-7]; original id: 29331
+1357: Canady, Charles T. [FL-12]; original id: 29332
+1358: Miller, Dan [FL-13]; original id: 29333
+1359: Meek, Kendrick B. [FL-17]; original id: 29334
+1360: Deutsch, Peter [FL-20]; original id: 29335
+1361: Diaz-Balart, Lincoln [FL-21]; original id: 29336
+1362: Hastings, Alcee L. [FL-23]; original id: 29337
+1363: Kingston, Jack [GA-1]; original id: 29338
+1364: Bishop, Sanford D., Jr. [GA-2]; original id: 29339
+1365: Collins, Barbara-Rose [MI-15]; original id: 29340
+1366: Linder, John [GA-11]; original id: 29341
+1367: Deal, Nathan [GA-9]; original id: 29342
+1368: Johnson, Don [GA-10]; original id: 29343
+1369: McKinney, Cynthia A. [GA-11]; original id: 29344
+1370: Crapo, Michael D. [ID-2]; original id: 29345
+1371: Rush, Bobby L. [IL-1]; original id: 29346
+1372: Reynolds, Mel [IL-2]; original id: 29347
+1373: Gutierrez, Luis V. [IL-4]; original id: 29348
+1374: Manzullo, Donald A. [IL-16]; original id: 29349
+1375: Buyer, Stephen E. [IN-5]; original id: 29350
+1376: Barlow, Tom [KY-1]; original id: 29351
+1377: Lewis, Jerry [CA-40]; original id: 29352
+1378: Baesler, Scotty [KY-6]; original id: 29353
+1379: Fields, Cleo [LA-4]; original id: 29354
+1380: Wynn, Albert Russell [MD-4]; original id: 29355
+1381: Bartlett, Roscoe G. [MD-6]; original id: 29356
+1382: Blute, Peter I. [MA-3]; original id: 29357
+1383: Meehan, Martin T. [MA-5]; original id: 29358
+1384: Torkildsen, Peter G. [MA-6]; original id: 29359
+1385: Stupak, Bart [MI-1]; original id: 29360
+1386: Hoekstra, Peter [MI-2]; original id: 29361
+1387: Ehlers, Vernon J. [MI-3]; original id: 29362
+1388: Barcia, James A. [MI-5]; original id: 29363
+1389: Smith, Nick [MI-7]; original id: 29364
+1390: Knollenberg, Joe [MI-11]; original id: 29365
+1391: Minge, David [MN-2]; original id: 29366
+1392: Grams, Rod [MN-6]; original id: 29367
+1393: Thompson, Bennie G. [MS-2]; original id: 29368
+1394: Talent, Jim [MO-2]; original id: 29369
+1395: Danner, Pat [MO-6]; original id: 29370
+1396: Franks, Bob [NJ-7]; original id: 29371
+1397: Kline, Herbert C. [NJ-8]; original id: 29372
+1398: Menendez, Robert [NJ-13]; original id: 29373
+1399: Lazio, Rick [NY-2]; original id: 29374
+1400: King, Peter T. [NY-3]; original id: 29375
+1401: Levy, David A. [NY-4]; original id: 29376
+1402: Nadler, Jerrold [NY-8]; original id: 29377
+1403: Velazquez, Nydia M. [NY-12]; original id: 29378
+1404: Maloney, Carolyn B. [NY-14]; original id: 29379
+1405: Hinchey, Maurice D. [NY-26]; original id: 29380
+1406: Quinn, Jack [NY-30]; original id: 29381
+1407: Clayton, Eva M. [NC-1]; original id: 29382
+1408: Watt, Melvin L. [NC-12]; original id: 29383
+1409: Pomeroy, Earl [ND-98]; original id: 29384
+1410: Mann, David [OH-1]; original id: 29385
+1411: Portman, Rob [OH-2]; original id: 29386
+1412: Strickland, Ted [OH-6]; original id: 29387
+1413: Hoke, Martin R. [OH-10]; original id: 29388
+1414: Brown, Sherrod [OH-13]; original id: 29389
+1415: Pryce, Deborah [OH-15]; original id: 29390
+1416: Fingerhut, Eric D. [OH-19]; original id: 29391
+1417: Istook, Ernest J., Jr. [OK-5]; original id: 29392
+1418: Lucas, Frank D. [OK-6]; original id: 29393
+1419: Furse, Elizabeth [OR-1]; original id: 29394
+1420: Klink, Ron [PA-4]; original id: 29395
+1421: Holden, Tim [PA-17]; original id: 29396
+1422: Greenwood, James C. [PA-8]; original id: 29397
+1423: Margolies-Mezvinsky, Marjorie [PA-13]; original id: 29398
+1424: McHale, Paul [PA-15]; original id: 29399
+1425: Salmon, Matt [AZ-1]; original id: 29500
+1426: Shadegg, John B. [AZ-4]; original id: 29501
+1427: Hayworth, J. D. [AZ-6]; original id: 29502
+1428: Lofgren, Zoe [CA-16]; original id: 29504
+1429: Radanovich, George P. [CA-19]; original id: 29505
+1430: Seastrand, Andrea H. [CA-22]; original id: 29506
+1431: Bono, Sonny [CA-44]; original id: 29507
+1432: Bilbray, Brian P. [CA-49]; original id: 29508
+1433: Weldon, Dave [FL-15]; original id: 29509
+1434: Foley, Mark [FL-16]; original id: 29510
+1435: Barr, Bob [GA-7]; original id: 29511
+1436: Chambliss, Saxby [GA-8]; original id: 29512
+1437: Norwood, Charlie [GA-10]; original id: 29513
+1438: Chenoweth-Hage, Helen [ID-1]; original id: 29514
+1439: Flanagan, Michael Patrick [IL-5]; original id: 29515
+1440: Weller, Jerry [IL-11]; original id: 29516
+1441: LaHood, Ray [IL-18]; original id: 29517
+1442: McIntosh, David M. [IN-2]; original id: 29518
+1443: Souder, Mark E. [IN-4]; original id: 29519
+1444: Hostettler, John N. [IN-8]; original id: 29520
+1445: Ganske, Greg [IA-4]; original id: 29521
+1446: Latham, Tom [IA-5]; original id: 29522
+1447: Brownback, Sam [KS-2]; original id: 29523
+1448: Tiahrt, Todd [KS-4]; original id: 29524
+1449: Whitfield, Ed [KY-1]; original id: 29525
+1450: Ward, Mike [KY-3]; original id: 29526
+1451: Longley, James B., Jr. [ME-1]; original id: 29527
+1452: Baldacci, John Elias [ME-2]; original id: 29528
+1453: Ehrlich, Robert L., Jr. [MD-2]; original id: 29529
+1454: Chrysler, Dick [MI-8]; original id: 29530
+1455: Rivers, Lynn N. [MI-13]; original id: 29531
+1456: Gutknecht, Gil [MN-1]; original id: 29532
+1457: Luther, Bill [MN-6]; original id: 29533
+1458: Wicker, Roger F. [MS-1]; original id: 29534
+1459: McCarthy, Karen [MO-5]; original id: 29535
+1460: Christensen, Jon [NE-2]; original id: 29536
+1461: Ensign, John E. [NV-1]; original id: 29537
+1462: Bass, Charles F. [NH-2]; original id: 29538
+1463: LoBiondo, Frank A. [NJ-2]; original id: 29539
+1464: Martini, William J. [NJ-8]; original id: 29540
+1465: Frelinghuysen, Rodney P. [NJ-11]; original id: 29541
+1466: Forbes, Michael P. [NY-1]; original id: 29542
+1467: Frisa, Dan [NY-4]; original id: 29543
+1468: Kelly, Sue W. [NY-19]; original id: 29544
+1469: Funderburk, David [NC-2]; original id: 29545
+1470: Jones, Stephanie Tubbs [OH-11]; original id: 29546
+1471: Heineman, Frederick K. (Fred) [NC-4]; original id: 29547
+1472: Burr, Richard [NC-5]; original id: 29548
+1473: Myrick, Sue [NC-9]; original id: 29549
+1474: Chabot, Steve [OH-1]; original id: 29550
+1475: Cremeans, Frank A. [OH-6]; original id: 29551
+1476: Ney, Robert W. [OH-18]; original id: 29552
+1477: LaTourette, Steve C. [OH-19]; original id: 29553
+1478: Largent, Steve [OK-1]; original id: 29554
+1479: Coburn, Tom A. [OK-2]; original id: 29555
+1480: Watts, J. C., Jr. [OK-4]; original id: 29556
+1481: Cooley, Wes [OR-2]; original id: 29557
+1482: Bunn, Jim [OR-5]; original id: 29558
+1483: Fattah, Chaka [PA-2]; original id: 29559
+1484: Fox, Jon D. [PA-13]; original id: 29560
+1485: Doyle, Michael F. [PA-18]; original id: 29561
+1486: Mascara, Frank [PA-20]; original id: 29562
+1487: English, Phil [PA-21]; original id: 29563
+1488: Kennedy, Joseph P., II [MA-8]; original id: 29564
+1489: Sanford, Marshall (Mark) [SC-1]; original id: 29565
+1490: Graham, Lindsey O. [SC-3]; original id: 29566
+1491: Wamp, Zach [TN-3]; original id: 29567
+1492: Hilleary, Van [TN-4]; original id: 29568
+1493: Bryant, Ed [TN-7]; original id: 29569
+1494: Stockman, Steve [TX-9]; original id: 29570
+1495: Doggett, Lloyd [TX-10]; original id: 29571
+1496: Thornberry, Mac [TX-13]; original id: 29572
+1497: Jackson-Lee, Sheila [TX-18]; original id: 29573
+1498: Bentsen, Ken [TX-25]; original id: 29574
+1499: Waldholtz, Enid Greene [UT-2]; original id: 29575
+1500: Davis, Thomas M. [VA-11]; original id: 29576
+1501: White, Rick [WA-1]; original id: 29577
+1502: Metcalf, Jack [WA-2]; original id: 29578
+1503: Smith, Christopher H. [NJ-4]; original id: 29579
+1504: Hastings, Doc [WA-4]; original id: 29580
+1505: Nethercutt, George R., Jr. [WA-5]; original id: 29581
+1506: Tate, Randy [WA-9]; original id: 29582
+1507: Neumann, Mark W. [WI-1]; original id: 29583
+1508: Cubin, Barbara [WY]; original id: 29584
+1509: Jackson, Jesse L., Jr. [IL-2]; original id: 29585
+1510: Millender-McDonald, Juanita [CA-37]; original id: 29586
+1511: Cummings, Elijah E. [MD-7]; original id: 29587
+1512: Blumenauer, Earl [OR-3]; original id: 29588
+1513: Riley, Bob [AL-3]; original id: 29700
+1514: Aderholt, Robert B. [AL-4]; original id: 29701
+1515: Berry, Marion [AR-1]; original id: 29702
+1516: Snyder, Vic [AR-2]; original id: 29703
+1517: Hutchinson, Asa [AR-3]; original id: 29704
+1518: Tauscher, Ellen O. [CA-10]; original id: 29705
+1519: Capps, Lois [CA-22]; original id: 29706
+1520: Sherman, Brad [CA-24]; original id: 29707
+1521: Rogan, James E. [CA-27]; original id: 29708
+1522: Sanchez, Loretta [CA-46]; original id: 29709
+1523: DeGette, Diana [CO-1]; original id: 29710
+1524: Schaffer, Bob [CO-4]; original id: 29711
+1525: Maloney, James H. [CT-5]; original id: 29712
+1526: Boyd, Allen [FL-2]; original id: 29713
+1527: Davis, Jim [FL-11]; original id: 29714
+1528: Wexler, Robert [FL-19]; original id: 29715
+1529: Blagojevich, Rod R. [IL-5]; original id: 29716
+1530: Davis, Danny K. [IL-7]; original id: 29717
+1531: Shimkus, John [IL-20]; original id: 29718
+1532: Pease, Edward A. [IN-7]; original id: 29719
+1533: Carson, Julia [IN-10]; original id: 29720
+1534: Boswell, Leonard L. [IA-3]; original id: 29721
+1535: Moran, Jerry [KS-1]; original id: 29722
+1536: Ryun, Jim [KS-2]; original id: 29723
+1537: Snowbarger, Vince [KS-3]; original id: 29724
+1538: Northup, Anne [KY-3]; original id: 29725
+1539: Cooksey, John [LA-5]; original id: 29726
+1540: John, Christopher [LA-7]; original id: 29727
+1541: Allen, Thomas H. [ME-1]; original id: 29728
+1542: McGovern, James P. [MA-3]; original id: 29729
+1543: Tierney, John F. [MA-6]; original id: 29730
+1544: Delahunt, William D. [MA-10]; original id: 29731
+1545: Stabenow, Debbie [MI-8]; original id: 29732
+1546: Kilpatrick, Carolyn C. [MI-15]; original id: 29733
+1547: Pickering, Charles W. (Chip) [MS-3]; original id: 29734
+1548: Blunt, Roy [MO-7]; original id: 29735
+1549: Emerson, Jo Ann [MO-8]; original id: 29736
+1550: Hulshof, Kenny C. [MO-9]; original id: 29737
+1551: Hill, Baron P. [IN-9]; original id: 29738
+1552: Gibbons, Jim [NV-2]; original id: 29739
+1553: Sununu, John E. [NH-1]; original id: 29740
+1554: Pascrell, Bill, Jr. [NJ-8]; original id: 29741
+1555: Rothman, Steve R. [NJ-9]; original id: 29742
+1556: Pappas, Michael [NJ-12]; original id: 29743
+1557: McCarthy, Carolyn [NY-4]; original id: 29744
+1558: Etheridge, Bob [NC-2]; original id: 29745
+1559: McIntyre, Mike [NC-7]; original id: 29746
+1560: Strickland, Ted [OH-6]; original id: 29747
+1561: Kucinich, Dennis J. [OH-10]; original id: 29748
+1562: Watkins, Wes [OK-3]; original id: 29749
+1563: Hooley, Darlene [OR-5]; original id: 29750
+1564: Peterson, Collin C. [MN-7]; original id: 29751
+1565: Pitts, Joseph R. [PA-16]; original id: 29752
+1566: Weygand, Robert A. [RI-2]; original id: 29753
+1567: Thune, John R. [SD]; original id: 29754
+1568: Jenkins, William L. [TN-1]; original id: 29755
+1569: Ford, Harold E., Jr. [TN-9]; original id: 29756
+1570: Sandlin, Max [TX-1]; original id: 29757
+1571: Turner, Jim [TX-2]; original id: 29758
+1572: Sessions, Pete [TX-32]; original id: 29759
+1573: Brady, Kevin [TX-8]; original id: 29760
+1574: Lampson, Nick [TX-9]; original id: 29761
+1575: Granger, Kay [TX-12]; original id: 29762
+1576: Hinojosa, Ruben [TX-15]; original id: 29763
+1577: Reyes, Silvestre [TX-16]; original id: 29764
+1578: Cook, Merrill [UT-2]; original id: 29765
+1579: Cannon, Chris [UT-3]; original id: 29766
+1580: Goode, Virgil H., Jr. [VA-5]; original id: 29767
+1581: Smith, Adam [WA-9]; original id: 29768
+1582: Kind, Ron [WI-3]; original id: 29769
+1583: Johnson, Eddie Bernice [TX-30]; original id: 29770
+1584: Rodriguez, Ciro [TX-28]; original id: 29771
+1585: Redmond, Bill [NM-3]; original id: 29772
+1586: Fossella, Vito [NY-13]; original id: 29773
+1587: Capps, Walter [CA-22]; original id: 29774
+1588: Bono, Sonny [CA-44]; original id: 29775
+1589: Meeks, Gregory W. [NY-6]; original id: 29776
+1590: Brady, Robert [PA-1]; original id: 29777
+1591: Lee, Barbara [CA-9]; original id: 29778
+1592: Wilson, Heather [NM-1]; original id: 29779
+1593: Thompson, Mike [CA-1]; original id: 29901
+1594: Ose, Doug [CA-3]; original id: 29902
+1595: Napolitano, Grace F. [CA-34]; original id: 29903
+1596: Kuykendall, Steven T. [CA-36]; original id: 29904
+1597: Miller, Gary G. [CA-41]; original id: 29905
+1598: Udall, Mark [CO-2]; original id: 29906
+1599: Tancredo, Thomas G. [CO-6]; original id: 29907
+1600: Larson, John B. [CT-1]; original id: 29908
+1601: Isakson, Johnny [GA-6]; original id: 29909
+1602: Simpson, Michael K. [ID-2]; original id: 29910
+1603: Schakowsky, Janice D. [IL-9]; original id: 29911
+1604: Biggert, Judy [IL-13]; original id: 29912
+1605: Phelps, David D. [IL-19]; original id: 29913
+1606: Hill, Baron P. [IN-9]; original id: 29914
+1607: Moore, Dennis [KS-3]; original id: 29915
+1608: Lucas, Ken [KY-4]; original id: 29916
+1609: Fletcher, Ernie [KY-6]; original id: 29917
+1610: Vitter, David [LA-1]; original id: 29918
+1611: Capuano, Michael E. [MA-8]; original id: 29919
+1612: Shows, Ronnie [MS-4]; original id: 29920
+1613: Terry, Lee [NE-2]; original id: 29921
+1614: Berkley, Shelley [NV-1]; original id: 29922
+1615: Holt, Rush D. [NJ-12]; original id: 29923
+1616: Udall, Tom [NM-3]; original id: 29924
+1617: Crowley, Joseph [NY-7]; original id: 29925
+1618: Weiner, Anthony D. [NY-9]; original id: 29926
+1619: Sweeney, John E. [NY-22]; original id: 29927
+1620: Reynolds, Thomas M. [NY-27]; original id: 29928
+1621: Hayes, Robin [NC-8]; original id: 29929
+1622: Jones, Stephanie Tubbs [OH-11]; original id: 29930
+1623: Wu, David [OR-1]; original id: 29931
+1624: Walden, Greg [OR-2]; original id: 29932
+1625: Sherwood, Don [PA-10]; original id: 29933
+1626: Hoeffel, Joseph M. [PA-13]; original id: 29934
+1627: Toomey, Patrick J. [PA-15]; original id: 29935
+1628: DeMint, Jim [SC-4]; original id: 29936
+1629: Inslee, Jay [WA-1]; original id: 29937
+1630: Baird, Brian [WA-3]; original id: 29938
+1631: Ryan, Paul [WI-1]; original id: 29939
+1632: Baldwin, Tammy [WI-2]; original id: 29940
+1633: Green, Gene [TX-29]; original id: 29941
+1634: Baca, Joe [CA-42]; original id: 29942
+1635: Gonzalez, Charles A. [TX-20]; original id: 29943
+1636: Meek, Kendrick B. [FL-17]; original id: 29999
+1637: Inglis, Bob [SC-4]; original id: 39300
+1638: Clyburn, James E. [SC-6]; original id: 39301
+1639: Bonilla, Henry [TX-23]; original id: 39302
+1640: Tejeda, Frank [TX-28]; original id: 39303
+1641: Green, Gene [TX-29]; original id: 39304
+1642: Johnson, Eddie Bernice [TX-30]; original id: 39305
+1643: Shepherd, Karen [UT-2]; original id: 39306
+1644: Scott, Robert C. [VA-3]; original id: 39307
+1645: Goodlatte, Bob [VA-6]; original id: 39308
+1646: Byrne, Leslie L. [VA-11]; original id: 39309
+1647: Cantwell, Maria [WA-1]; original id: 39310
+1648: Inslee, Jay [WA-4]; original id: 39311
+1649: Dunn, Jennifer [WA-8]; original id: 39312
+1650: Kreidler, Mike [WA-9]; original id: 39313
+1651: Barca, Peter [WI-1]; original id: 39314
+1652: Barrett, Thomas M. [WI-5]; original id: 39315
+1653: McHugh, John M. [NY-24]; original id: 39316
+1654: Scarborough, Joe [FL-1]; original id: 39508
+1655: Carper, Thomas R. [DE]; original id: 40100
+1656: Dayton, Mark [MN]; original id: 40101
+1657: Carnahan, Jean [MO]; original id: 40102
+1658: Nelson, E. Benjamin [NE]; original id: 40103
+1659: Corzine, Jon [NJ]; original id: 40104
+1660: Clinton, Hillary Rodham [NY]; original id: 40105
+1661: Barkley, Dean M. [MN]; original id: 40106
+1662: Murkowski, Lisa [AK]; original id: 40300
+1663: Pryor, Mark Lunsford [AR]; original id: 40301
+1664: Coleman, Norm [MN]; original id: 40302
+1665: Dole, Elizabeth H. [NC]; original id: 40303
+1666: Alexander, Lamar [TN]; original id: 40304
+1667: Cornyn, John [TX]; original id: 40305
+1668: Seymour, John [CA]; original id: 49100
+1669: Wellstone, Paul D. [MN]; original id: 49101
+1670: Burdick, Quentin N. [ND]; original id: 49103
+1671: Wofford, Harris [PA]; original id: 49104
+1672: Feinstein, Dianne [CA]; original id: 49300
+1673: Coverdell, Paul [GA]; original id: 49301
+1674: Kempthorne, Dirk [ID]; original id: 49302
+1675: Moseley-Braun, Carol [IL]; original id: 49303
+1676: Faircloth, Lauch [NC]; original id: 49304
+1677: Mathews, Harlan [TN]; original id: 49305
+1678: Hutchison, Kay Bailey [TX]; original id: 49306
+1679: Bennett, Robert F. [UT]; original id: 49307
+1680: Murray, Patty [WA]; original id: 49308
+1681: Feingold, Russell D. [WI]; original id: 49309
+1682: Abraham, Spencer [MI]; original id: 49500
+1683: Ashcroft, John [MO]; original id: 49501
+1684: Frist, Bill [TN]; original id: 49502
+1685: Thompson, Fred [TN]; original id: 49503
+1686: Frahm, Sheila [KS]; original id: 49504
+1687: Sessions, Jeff [AL]; original id: 49700
+1688: Cleland, Max [GA]; original id: 49701
+1689: Landrieu, Mary [LA]; original id: 49702
+1690: Collins, Susan M. [ME]; original id: 49703
+1691: Hagel, Chuck [NE]; original id: 49704
+1692: Smith, Gordon [OR]; original id: 49705
+1693: Enzi, Michael B. [WY]; original id: 49706
+1694: Fitzgerald, Peter [IL]; original id: 49900
+1695: Bayh, Evan [IN]; original id: 49901
+1696: Edwards, John [NC]; original id: 49902
+1697: Voinovich, George V. [OH]; original id: 49903
+1698: Miller, Zell [GA]; original id: 49904
+1699: Chafee, Lincoln D. [RI]; original id: 49905
+1700: Goode, Virgil H., Jr. [VA-5]; original id: 89767
+1701: REID; original id: 90618
+1702: RIEGLE; original id: 91043
+1703: PEYSER; original id: 93033
+1704: Jeffords, James M. [VT]; original id: 94240
+1705: IRELAND; original id: 94428
+1706: STUMP; original id: 94454
+1707: ATKINSON; original id: 94602
+1708: GRAMM; original id: 94628
+1709: Shelby, Richard C. [AL]; original id: 94659
+1710: Tauzin, W. J. (Billy) [LA-3]; original id: 94679
+1711: JARMAN; original id: 94891
+1712: Jones, Ben [GA-4]; original id: 95120
+1713: Robinson, Tommy F. [AR-2]; original id: 95122
+1714: Campbell, Ben Nighthorse [CO]; original id: 95407
+1715: GRANT; original id: 95415
+1716: Parker, Mike [MS-4]; original id: 95617
+1717: Deal, Nathan [GA-10]; original id: 99342
