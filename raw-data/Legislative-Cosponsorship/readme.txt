@@ -61,7 +61,7 @@ The next files are all 283,994 element vectors with measures on each bill.
     *      The senate.csv file and house.csv are csv files that match ICPSR numbers ("id") to names ("name") and a few other variables for all congresses. ICPSR numbers are derived from http://voteview.com/icpsr.htm and change if a person switches party, so it is important to match by congress.
 
     *      The sponsors.vec file identifies the ICPSR code of each bill sponsor
-
+Fd
     *      The cosponsors.vec file identifies the ICPSR codes of each cosponsor (one bill per line, each cosponsor is space delimited) -- large (13M)
 
     *      The cospcount.vec file is the total number of cosponsors on each bill
@@ -81,4 +81,4 @@ The next files are all 283,994 element vectors with measures on each bill.
     *      The pvtbills.vec file shows whether bill is a "private" bill 
 
 Last Updated 1 September 2006
-Copyright © 1998-2006 James Fowler, All Rights Reserved. 
+Copyright ï¿½ 1998-2006 James Fowler, All Rights Reserved. 
