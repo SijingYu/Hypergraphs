@@ -30,11 +30,11 @@ def affiliation_parser(file_name = 'raw-data/DBLP-CSR/affiliation.txt',
         arr.append(col)
 
     if save_format == 1:
-        with open(save_name+".txt", "w") as f:
+        with open("parsed"+save_name+".txt", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
     elif save_format == 2:
-         with open(save_name+".csv", "w") as f:
+        with open("parsed"+save_name+".csv", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
 
@@ -71,11 +71,11 @@ def affiliation_coord_parser(file_name = 'raw-data/DBLP-CSR/affiliation_coord.tx
         arr[int(id)-1]=col
 
     if save_format == 1:
-        with open(save_name+".txt", "w") as f:
+        with open("parsed"+save_name+".txt", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
     elif save_format == 2:
-         with open(save_name+".csv", "w") as f:
+        with open("parsed"+save_name+".csv", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
 
@@ -100,11 +100,11 @@ def authors_gender_parser(file_name = 'raw-data/DBLP-CSR/authors_gender.txt',
         arr[i]=col
 
     if save_format == 1:
-        with open(save_name+".txt", "w") as f:
+        with open("parsed"+save_name+".txt", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
     elif save_format == 2:
-         with open(save_name+".csv", "w") as f:
+        with open("parsed"+save_name+".csv", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
 
@@ -132,11 +132,11 @@ def authors_parser(file_name = 'raw-data/DBLP-CSR/authors.txt',
         arr[id-1]=col
 
     if save_format == 1:
-        with open(save_name+".txt", "w") as f:
+        with open("parsed"+save_name+".txt", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
     elif save_format == 2:
-         with open(save_name+".csv", "w") as f:
+        with open("parsed"+save_name+".csv", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
 
@@ -168,18 +168,18 @@ def main_parser(file_name = 'raw-data/DBLP-CSR/main.txt',
         arr.append(col)
     
     if save_format == 1:
-        with open(save_name+".txt", "w") as f:
+        with open("parsed"+save_name+".txt", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
     elif save_format == 2:
-         with open(save_name+".csv", "w") as f:
+        with open("parsed"+save_name+".csv", "w") as f:
             writer = csv.writer(f)
             writer.writerows(arr)
 
     return arr
 
 
-if sys.argv[1] == "affiliation": 
+'''if sys.argv[1] == "affiliation": 
     if len(sys.argv) > 2:
         if sys.argv[2] == ".csv":
             affiliation_parser(save_format=2)
@@ -212,4 +212,16 @@ elif sys.argv[1] == "main":
         if sys.argv[2] == ".csv":
             main_parser(save_format=2)
         else:
-            main_parser()
+            main_parser()'''
+
+def main():
+    format = 1
+
+    if len(sys.argv) > 1: 
+        if sys.argv[1]  == 'csv':
+            format = 2
+    affiliation_parser(save_format=format)
+    affiliation_coord_parser(save_format=format)
+    authors_gender_parser(save_format=format)
+    authors_parser(save_format=format)
+    main_parser(save_format=format)

@@ -88,3 +88,6 @@ def hypergraph_generator(save_file = False, file_name = "hypergraph.txt"):
 
     return all_sponsors
 
+
+def main():
+    hypergraph_generator()
