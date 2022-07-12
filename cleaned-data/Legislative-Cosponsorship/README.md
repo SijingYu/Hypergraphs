@@ -1,0 +1,2 @@
+Since the names of each sponsor/cosponsor are not unified (For instance, sometimes middle names are included but sometimes not), each person is assigned a unique id and their name is saved using the longest one among all occurrences. These ids are used to generate the hypergraph. <\br>
+The "original id" in each line is the index of each person in the original file with repeated entries for a same person.

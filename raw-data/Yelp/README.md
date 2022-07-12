@@ -1,0 +1,1 @@
+### All five files *yelp_academic_dataset_review.json*, *yelp_academic_dataset_business.json*, *yelp_academic_dataset_checkin.json*, *yelp_academic_dataset_tip.json* and *yelp_academic_dataset_user.json* are omitted considering size. The entire dataset can be directly downloaded at [https://www.yelp.com/dataset](https://www.yelp.com/dataset)

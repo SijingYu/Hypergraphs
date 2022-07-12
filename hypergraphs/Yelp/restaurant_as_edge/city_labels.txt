@@ -1,0 +1,1000 @@
+0: AVON
+1: Abington
+2: Abington Township
+3: Affton
+4: Afton
+5: Aldan
+6: Algiers
+7: Alloway
+8: Alton
+9: Ambler
+10: Andalusia
+11: Antioch
+12: Apollo Beach
+13: Arabi
+14: Ardmore
+15: Arnold
+16: Ashland
+17: Ashland City
+18: Aston
+19: Atco
+20: Audubon
+21: Audubon 
+22: Avon
+23: Avondale
+24: BOISE
+25: BRANDON
+26: Bala Cynwyd
+27: Ballwin
+28: Balm
+29: Bargersville
+30: Barnhart
+31: Barrington
+32: Bayonet Point
+33: Beaumont
+34: Beech Grove
+35: Beech Grove,
+36: Bel Ridge
+37: Belle Chase
+38: Belle Chasse
+39: Belle Meade
+40: Belleair Blf
+41: Belleair Bluffs
+42: Bellefontaine
+43: Bellefontaine Neighbors
+44: Bellefonte
+45: Belleville
+46: Bellevue
+47: Bellmawr
+48: Bellville
+49: Belmont Hills
+50: Bensalem
+51: Bensalem Township
+52: Bensalem. Pa
+53: Berkeley
+54: Berlin
+55: Berlin Township
+56: Berry Hill
+57: Berwyn
+58: Bethalto
+59: Bethel
+60: Bethel Township
+61: Beverly
+62: Birchrunville
+63: Black Jack
+64: Blackwood
+65: Blackwood 
+66: Blooming Glen
+67: Blue Bell
+68: Blvd
+69: Boise
+70: Boise City
+71: Boone
+72: Boothwyn
+73: Bordentown
+74: Boulevard
+75: Boyertown
+76: Bradenton
+77: Bradenton Beach
+78: Brandon
+79: Breckenridge Hills
+80: Brentwood
+81: Bridge City
+82: Bridgeport
+83: Bridgeton
+84: Bristol
+85: Bristol Twp
+86: Brookhaven
+87: Brooklawn
+88: Broomall
+89: Brownsburg
+90: Bryn Athyn
+91: Bryn Mawr
+92: Buckingham
+93: Bucks
+94: Bucktown
+95: Burlington
+96: Burlington Township
+97: Bywater
+98: CLEARWATER
+99: CLEARWATER BEACH
+100: CLIFTON HEIGHTS
+101: Cahokia
+102: Caln
+103: Camby
+104: Camden
+105: Cane Ridge
+106: Carmel
+107: Carney's Point
+108: Carneys Point
+109: Carpinteria
+110: Carrollwood
+111: Carversville
+112: Casa Adobes
+113: Casas Adobes
+114: Caseyville
+115: Castleton
+116: Catalina
+117: Cedar Brook
+118: Cedarbrook
+119: Cedars
+120: Center Square
+121: Chadds Ford
+122: Chalemette
+123: Chalfont
+124: Chalmette
+125: Charlack
+126: Charlotte
+127: Cheltenham
+128: Cheltenham Township
+129: Cherry Hil
+130: Cherry Hill
+131: Cherry Hill Mall
+132: Chesilhurst
+133: Chester
+134: Chester Springs
+135: Chesterbrook
+136: Chesterfield
+137: Chichester
+138: Christiana
+139: Churchville
+140: Cinnaminson
+141: Citrus Park
+142: Clarksboro
+143: Clarksville
+144: Claymont
+145: Clayton
+146: Clearwater
+147: Clearwater Beach
+148: Clearwater/ Countryside
+149: Clementon
+150: Clermont
+151: Clifton Heights
+152: Coatesville
+153: Cold Springs
+154: Collegeville
+155: Collingdale
+156: Collingswood
+157: Collinsville
+158: Colmar
+159: Columbia
+160: Columbus
+161: Concord Township
+162: Concordville
+163: Conshohocken
+164: Conshohoeken
+165: Cornwells Heights
+166: Corona De Tucson
+167: Corona de Tucson
+168: Cottage Hills
+169: Crestwood
+170: Creve Coeur
+171: Croydon
+172: Crum Lynne
+173: Cumberland
+174: DELRAN
+175: DONELSON
+176: Dade City
+177: Danville
+178: Darby
+179: Delanco
+180: Dellwood
+181: Delran
+182: Delran Township
+183: Delran Twp
+184: Deptford
+185: Deptford Township
+186: Deptford Twp
+187: Des Peres
+188: Devon
+189: Douglassville
+190: Dover
+191: Downingtown
+192: Downtown
+193: Doylestown
+194: Dresher
+195: Drexel Heights
+196: Drexel Hill
+197: Dublin
+198: Dunedin
+199: Dupo
+200: E. Norristown
+201: Eagle
+202: Eagleville
+203: Earth City
+204: East Alton
+205: East Boise
+206: East Edmonton
+207: East Falls
+208: East Greenville
+209: East Lansdowne
+210: East Nashville
+211: East Norriton
+212: East Saint Louis
+213: East St Louis
+214: East St. Louis
+215: Eastampton
+216: Eastampton Township
+217: Eaux Claires
+218: EdMonton
+219: Eddington
+220: Eddystone
+221: Edgemont
+222: Edgewater Park
+223: Edgmont
+224: Edmonton
+225: Edmundson
+226: Edwardsville
+227: Elk Township
+228: Elkins Park
+229: Elmer
+230: Elmwood
+231: Elsmere
+232: Elverson
+233: Enoch
+234: Erdenheim
+235: Erial
+236: Essington
+237: Evesham
+238: Evesham Township
+239: Ewing
+240: Ewing Township
+241: Ewing Twp
+242: Exton
+243: FOLSOM
+244: Fairland
+245: Fairless Hills
+246: Fairmont City
+247: Fairview
+248: Fairview Heights
+249: Fairview Hts
+250: Fairview Hts.
+251: Fairview Village
+252: Fallsington
+253: Feasterville
+254: Feasterville Trevose
+255: Feasterville-Trevose
+256: Feasterville-trevose
+257: Fenton
+258: Ferguson
+259: Fernley
+260: Festerville
+261: Fieldsboro
+262: Fishers
+263: Flanders
+264: Florence
+265: Florence Township
+266: Florissant
+267: Flourtown
+268: Folcroft
+269: Folsom
+270: Fort Washington
+271: Fortville
+272: Foster Pond
+273: Fountainville
+274: Fox Street
+275: Franconia
+276: Franklin
+277: Franklinville
+278: Frazer
+279: Freeburg
+280: Freehold
+281: Frontenac
+282: Furlong
+283: Gallatin
+284: Garden City
+285: Gardenville
+286: Garnet Valley
+287: Gentilly
+288: Gibbsboro
+289: Gibbstown
+290: Gibsonton
+291: Gilbertsville
+292: Gladwyne
+293: Glassboro
+294: Glen Carbon
+295: Glen Mills
+296: Glendale
+297: Glendora
+298: Glenmoore
+299: Glenmore
+300: Glenn Mills
+301: Glenoldan
+302: Glenolden
+303: Glenside
+304: Gloucester
+305: Gloucester City
+306: Gloucester Township
+307: Godfrey
+308: Goleta
+309: Goodletsville
+310: Goodlettsville
+311: Gradyville
+312: Granite City
+313: Greater Carrollwood
+314: Greater Northdale
+315: Green Lane
+316: Green Park
+317: Green Valley
+318: Greenbrier
+319: Greenfield
+320: Greenville
+321: Greenwood
+322: Gretna
+323: Gulfport
+324: Gulph Mills
+325: Gwynedd
+326: Gwynedd Valley
+327: HUdson
+328: Had Twp
+329: Haddon
+330: Haddon Heights
+331: Haddon Township
+332: Haddon Twp
+333: Haddon township
+334: Haddonfield
+335: Hainesport
+336: Hamiltion
+337: Hamilton
+338: Hamilton Township
+339: Hammonton
+340: Hancock
+341: Harahan
+342: Harleysville
+343: Harrison Township
+344: Harvey
+345: Hatboro
+346: Hatfield
+347: Haverford
+348: Havertown
+349: Hazelwood
+350: Hendersonville
+351: Hermitage
+352: Hernando Bch
+353: Hernando Beach
+354: Hi-Nella
+355: High Ridge
+356: Hillsborough County
+357: Hilltop
+358: Hilltown
+359: Hockessin
+360: Holicong
+361: Holiday
+362: Holland
+363: Holland Southampton
+364: Hollywood
+365: Holmes
+366: Horsham
+367: Hudson
+368: Hulmeville
+369: Huntingdon Valley
+370: Hurffville
+371: INDIANAPOLIS
+372: INpolis
+373: Imperial
+374: Indian Rocks Beach
+375: Indian Shores
+376: Indiana
+377: Indianapolis
+378: Indianapolis 
+379: Indianapolis city (balance)
+380: Inglewood
+381: Isla Vista
+382: Ivyland
+383: Jamison
+384: Jefferson
+385: Jeffersonville
+386: Jenkintown
+387: Jennings
+388: Jobstown
+389: Joelton
+390: Kalispell
+391: Kenner
+392: Kenneth
+393: Kenneth City
+394: Kennett Square
+395: Kimberton
+396: Kimmswick
+397: King Of Prussia
+398: King of Prussia
+399: Kingston Springs
+400: Kirklyn
+401: Kirkwood
+402: Kulpsville
+403: Kuna
+404: LANGHORNE
+405: LANSDALE
+406: LARGO
+407: LITHIA
+408: LOWER MERION
+409: LOWER PROVIDENCE
+410: La Vergne
+411: Ladue
+412: Lafayette Hill
+413: Lahaska
+414: Lambertville
+415: Land O Lakes
+416: Land O' Lakes
+417: Land O'Lakes
+418: Land O'lakes
+419: Land o Lakes
+420: Land o lakes
+421: Landsdale
+422: Langhorne
+423: Lansdale
+424: Lansdale 
+425: Lansdowne
+426: Largo
+427: Largo (Walsingham)
+428: Laurel Springs
+429: Lavergne
+430: Lawnside
+431: Lawrence
+432: Lawrence Township
+433: Lawrenceville
+434: Lebanon
+435: Lederach
+436: Lemay
+437: Lenni
+438: Lester
+439: Levittown
+440: Lima
+441: Limerick
+442: Lindenwold
+443: Line Lexington
+444: Linfield
+445: Linwood
+446: Lionville
+447: Lithia
+448: Liverpool
+449: Logan Township
+450: London Grove
+451: Lower Merion
+452: Lower Southampton Township
+453: Lula Lula
+454: Luling
+455: Lumberton
+456: Lutz
+457: Lutz fl
+458: MADISON
+459: MEDIA
+460: Madeira Beach
+461: Madison
+462: Magnolia
+463: Malaga
+464: Malvern
+465: Manayunk
+466: Manchester
+467: Mango
+468: Mansfield
+469: Mantua
+470: Mantua Township
+471: Maple Glen
+472: Maple Shade
+473: Maple Shade Township
+474: Maplewood
+475: Marana
+476: Marcus Hook
+477: Marlborough
+478: Marlton
+479: Marrero
+480: Marshallton
+481: Martinsville
+482: Maryland Heights
+483: Maryville
+484: Maryville 
+485: Masaryktown
+486: Mascoutah
+487: Mc Cordsville
+488: McCordsville
+489: Mccordsville
+490: Medford
+491: Medford Lakes
+492: Media
+493: Mehlville
+494: Melrose Park
+495: Mendenhall
+496: Meraux
+497: Mercerville
+498: Merchantville
+499: Meridian
+500: Meridian 
+501: Merion Station
+502: Metairie
+503: Metairie 
+504: Metarie
+505: Mickleton
+506: Middletown
+507: Millstadt
+508: Milmont Park
+509: Monroe Township
+510: Monroeville
+511: Mont Clare
+512: Montchanin
+513: Montecito
+514: Montgomery
+515: Montgomeryville
+516: Moorestown
+517: Moorestown-Lenola
+518: Mooresville
+519: Morrisville
+520: Morton
+521: Mount Ephraim
+522: Mount Holly
+523: Mount Holly,
+524: Mount Juliet
+525: Mount Laurel
+526: Mount Laurel Township
+527: Mount Lemmon
+528: Mount Royal
+529: Mt Holly
+530: Mt Juliet
+531: Mt Laurel
+532: Mt Laurel Twp, NJ
+533: Mt. Holly
+534: Mt. Juliet
+535: Mt. Laurel
+536: Mt.Juliet
+537: Mt.Laurel
+538: Mullica Hill
+539: N Redngtn Bch
+540: N.Wales
+541: NASHVILLE
+542: NEW ORLEANS
+543: NEW PORT RICHEY
+544: NORRISTOWN
+545: NORTH WALES
+546: NW Edmonton
+547: Nampa
+548: Narberth
+549: Nashville
+550: Nashville 
+551: Nashville-Davidson metropolitan government (balance)
+552: National Park
+553: New Britain
+554: New Castle
+555: New Hope
+556: New Orleans
+557: New Palestine
+558: New Port Richey
+559: New Whiteland
+560: Newark
+561: Newfield
+562: Newport
+563: Newportville
+564: Newton
+565: Newtown
+566: Newtown Sqaure
+567: Newtown Square
+568: Noblesville
+569: Nolensville
+570: Normandy
+571: Norristown
+572: North Coventry Township
+573: North Maple Shade
+574: North Redington Bch
+575: North Redington Beach
+576: North Wales
+577: Norwood
+578: O Fallon
+579: O' Fallon
+580: O'Fallon
+581: O'fallon
+582: Oaklandon
+583: Oaklyn
+584: Oaks
+585: Oakville
+586: Odessa
+587: Old Hickory
+588: Oldmans
+589: Oldmans Township
+590: Oldsmar
+591: Olivette
+592: Oreland
+593: Oro Valley
+594: Overland
+595: Ozona
+596: PHILA
+597: PHILADELPHIA
+598: PINELLAS PARK
+599: POTTSTOWN
+600: Palm Harbor
+601: Palm harbor
+602: Palmetto
+603: Palmyra
+604: Paoli
+605: Parkside
+606: Pasadena
+607: Pass-a-Grille Beach
+608: Paulsboro
+609: Pedricktown
+610: Peerless Park
+611: Pegram
+612: Pemberton
+613: Penndel
+614: Pennington
+615: Penns Grove
+616: Pennsauken
+617: Pennsauken Township
+618: Pennsburg
+619: Pennsville
+620: Pennsville Township
+621: Pennsylvania
+622: Perkasie
+623: Perkiomenville
+624: Petersburg
+625: Phila
+626: Philadelphia
+627: Philadelphia 
+628: Philadelphia PA
+629: Philadephia
+630: Philly
+631: Phoenixville
+632: Picture Rocks
+633: Pike Creek
+634: Pilesgrove
+635: Pine Forge
+636: Pine HIll
+637: Pine Hill
+638: Pinecrest West Park
+639: Pinellas
+640: Pinellas Park
+641: Pinellas park
+642: Pineville
+643: Pipersville
+644: Pitman
+645: Pittsgrove
+646: Pittsgrove Township
+647: Plainfield
+648: Plainfiled
+649: Plant City
+650: Pleasant Township
+651: Pleasant View
+652: Plumsteadville
+653: Plymouth Meeting
+654: Pontoon Beach
+655: Port Hueneme
+656: Port Richey
+657: Pottstown
+658: Primos
+659: Prospect Park
+660: Quakertown
+661: Quinton
+662: RADNOR
+663: RENO
+664: RIVERVIEW
+665: Radnor
+666: Red Hill
+667: Redingtn Shor
+668: Redingtn Shores
+669: Redington Shore
+670: Redington Shores
+671: Reno
+672: Reno 
+673: Reno Nevada
+674: Richboro
+675: Richmond Heights
+676: Richwood
+677: Ridley
+678: Ridley Park
+679: River Ridge
+680: Riveridge
+681: Riverside
+682: Riverton
+683: Riverview
+684: Riverview Fl
+685: Rock Hill
+686: Rockledge
+687: Roebling
+688: Rosemont
+689: Rosewood Heights
+690: Roslyn
+691: Roxana
+692: Roxborough
+693: Royersford
+694: Royersford 
+695: Runnemede
+696: Rural Hill
+697: Ruskin
+698: S Pasadena
+699: S.Pasadena
+700: SPRINGHILL
+701: ST LOUIS
+702: ST. Louis
+703: ST. PETE BEACH
+704: ST. PETERSBURG
+705: Safety Harbor
+706: Sahuarita
+707: Saint Albert
+708: Saint Ann
+709: Saint Bernard
+710: Saint Charles
+711: Saint John
+712: Saint Leo
+713: Saint Louis
+714: Saint Louis,
+715: Saint Pete Beach
+716: Saint Peters
+717: Saint Petersburg
+718: Saint Petersburg Beach
+719: Saint Rose
+720: Saintt Petersburg
+721: Salem
+722: San Antonio
+723: Sanatoga
+724: Santa  Barbara
+725: Santa Barbara
+726: Santa Clara
+727: Santa Maria
+728: Sappington
+729: Sassamansville
+730: Sauget
+731: Schwenksville
+732: Scott AFB
+733: Scott Afb
+734: Scott Air Force Base
+735: Secane
+736: Seffner
+737: Sellersville
+738: Seminole
+739: Sewell
+740: Shamong
+741: Sharon Hill
+742: Sherwood
+743: Sherwood Park
+744: Shiloh
+745: Shrewsbury
+746: Sicklerville
+747: Silverdale
+748: Skippack
+749: Skippack Village
+750: Smithton
+751: Smyrna
+752: Solebury
+753: Somerdale
+754: Souderton
+755: South Cinnaminson
+756: South Harrison Township
+757: South Pasadena
+758: South Tampa
+759: South Tucson
+760: Southampton
+761: Southampton Township
+762: Southeast Edmonton
+763: Southport
+764: Southwest Philadelphia
+765: Southwest Tampa
+766: Spanish Springs
+767: Sparks
+768: Sparks 
+769: Speedway
+770: Spring City
+771: Spring Hill
+772: Spring House
+773: Springfield
+774: Springhill
+775: St Albert
+776: St Ann
+777: St Charles
+778: St Louis
+779: St Louis County
+780: St Louis Downtown
+781: St Pete
+782: St Pete Beach
+783: St Petersberg
+784: St Petersburg
+785: St Petersurg
+786: St.  Charles
+787: St. Albert
+788: St. Ann
+789: St. Charles
+790: St. Davids
+791: St. Leo
+792: St. Louis
+793: St. Louis County
+794: St. Pete Beach
+795: St. Peters
+796: St. Petersburg
+797: St. Rose
+798: St.Ann
+799: St.Charles
+800: St.Louis
+801: St.Pete Beach
+802: St.Petersburg
+803: St.Rose
+804: Stanton
+805: Stead
+806: Stowe
+807: Stratford
+808: Sullivan
+809: Summerland
+810: Sumneytown
+811: Sun City
+812: Sun City Center
+813: Sun Valley
+814: Sunset Hills
+815: Swansea
+816: Swarthmore
+817: Swedeland
+818: Swedesboro
+819: TAMPA
+820: TEMPLE TERR
+821: TRENTON
+822: TRINITY
+823: TUCSON
+824: Tabernacle
+825: Talleyville
+826: Tampa
+827: Tampa Bay
+828: Tampa Florida
+829: Tampa Palms
+830: Tampa,
+831: Tampa,Fl
+832: Tarpon Springs
+833: Tarpon springs
+834: Telford
+835: Telford 
+836: Temple Terr
+837: Temple Terrace
+838: Terra Ceia
+839: Terrytown
+840: Thonosassa
+841: Thonotosassa
+842: Thorndale
+843: Thornton
+844: Thorofare
+845: Tierra Verde
+846: Tierre Verde
+847: Tinicum
+848: Titusville
+849: Toughkenamon
+850: Town & Country
+851: Town 'N' Country
+852: Town 'n' Country
+853: Town And Country
+854: Town and Country
+855: Town and Country 
+856: Town n Country
+857: Trainer
+858: Trappe
+859: Treasure Island
+860: Tren
+861: Trenton
+862: Trevose
+863: Trinity
+864: Trolley Square
+865: Trooper
+866: Troy
+867: Truckee
+868: Tucson
+869: Turnersville
+870: Tuscon
+871: Twin Oaks
+872: Twn N Cntry
+873: Tylersport
+874: UPPER MORELAND
+875: Unionville
+876: University City
+877: Upland
+878: Upper Chichester
+879: Upper Darby
+880: Upper Gwynedd
+881: Upper Pittsgrove
+882: Upper Pottsgrove
+883: Upper Southampton
+884: Upper Southampton Township
+885: VC Highlands
+886: Vail
+887: Valencia West
+888: Valley Park
+889: Valrico
+890: Verdi
+891: View
+892: Villanova
+893: Vincentown
+894: Vineland
+895: Violet
+896: Virginia City
+897: Virtual
+898: Voorhees
+899: Voorhees Township
+900: W Cherry Hill
+901: W. Berlin
+902: W.Chester
+903: WEST CHESTER
+904: WILLOW GROVE
+905: Waggaman
+906: Wallingford
+907: Wanamaker
+908: Warminster
+909: Warrington
+910: Warrington Township
+911: Warson Woods
+912: Washington Crossing
+913: Washington Park
+914: Washington Township
+915: Washington Twp
+916: Washoe Valley
+917: Waterford Works
+918: Waterloo
+919: Wayne
+920: Webster Groves
+921: Wenonah
+922: Wesley Chapel
+923: Wesley Chapel 
+924: Wesley chapel
+925: West Berlin
+926: West Bradford Township
+927: West Chester
+928: West Chester PA
+929: West Collingswood Heights
+930: West Conshohocken
+931: West Deptford
+932: West Deptford Townsh
+933: West Edmonton
+934: West Mount Holly
+935: West Norriton 
+936: West Philadelphia
+937: West Point
+938: West Trenton
+939: Westampton
+940: Westampton Township
+941: Westchase
+942: Westhampton
+943: Westmont
+944: Westmont - Haddon Towsship
+945: Westtown
+946: Westville
+947: Westwego
+948: White House
+949: Whiteland
+950: Whites Creek
+951: Whitestown
+952: Williamstown
+953: Willingboro
+954: Willingboro Township
+955: Willow Grove
+956: Wilmington
+957: Wilmington 
+958: Wilmington Manor
+959: Wimauma
+960: Winchester
+961: Winslow Township
+962: Wood River
+963: Woodbury
+964: Woodbury Heights
+965: Woodbury Hts.
+966: Woodlyn
+967: Woodson Terrace
+968: Woodstown
+969: Woolwich Township
+970: Woolwich Twp
+971: Woolwich Twp.
+972: Worcester
+973: Wrightstown
+974: Wycombe
+975: Wyncote
+976: Wyndlake Condominium
+977: Wyndmoor
+978: Wynnewood
+979: Yardley
+980: Yardley Boro
+981: Ybor City
+982: Yeadon
+983: Yorklyn
+984: Zephyrhills
+985: Zieglerville
+986: Zionsville
+987: boise
+988: clearwater
+989: erdenheim
+990: goodlettsville
+991: indianopolis
+992: lawrence
+993: philadelphia
+994: reno
+995: sewell
+996: spring city
+997: tucson
+998: wilmington
+999: wimauma
